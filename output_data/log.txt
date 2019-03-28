@@ -1,1 +1,12 @@
-Request city: purranqueat 03/28/2019, 12:50:08
+Request city: nagpur at 03/28/2019, 14:14:58
+Response at 03/28/2019, 14:15:00
+City: Nagpur Country: IN Temp: 78.8 Humidity: 31.0 Wind: 3.36 Cloud cover: 0.0 Lat: 21.15 Lng: 79.08
+Success.  Appending data.
+Request city: miandrivazo at 03/28/2019, 14:15:00
+Response at 03/28/2019, 14:15:01
+City: Miandrivazo Country: MG Temp: 71.36 Humidity: 87.0 Wind: 3.38 Cloud cover: 76.0 Lat: -19.53 Lng: 45.46
+Success.  Appending data.
+Request city: shima at 03/28/2019, 14:15:01
+Response at 03/28/2019, 14:15:02
+City: Shima Country: JP Temp: 46.4 Humidity: 49.0 Wind: 13.87 Cloud cover: 75.0 Lat: 34.34 Lng: 136.82
+Success.  Appending data.

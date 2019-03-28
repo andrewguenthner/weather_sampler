@@ -1,0 +1,4 @@
+,City,Country,Latitude,Longitude,Time,Temperature (deg F),Humidity (%),Wind Speed (mph),Cloud Cover (%)
+0,Nagpur,IN,21.15,79.08,2019-03-28 14:15:00.984889,78.8,31.0,3.36,0.0
+1,Miandrivazo,MG,-19.53,45.46,2019-03-28 14:15:01.560047,71.36,87.0,3.38,76.0
+2,Shima,JP,34.34,136.82,2019-03-28 14:15:02.593915,46.4,49.0,13.87,75.0
