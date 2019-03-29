@@ -1,12 +1,2256 @@
-Request city: nagpur at 03/28/2019, 14:14:58
-Response at 03/28/2019, 14:15:00
-City: Nagpur Country: IN Temp: 78.8 Humidity: 31.0 Wind: 3.36 Cloud cover: 0.0 Lat: 21.15 Lng: 79.08
+Beginning data collection batch 1:
+Request city: tupik at 03/28/2019, 22:34:52
+Response at 03/28/2019, 22:34:53
+City: Tupik Country: RU Temp: 23.18 Humidity: 38.0 Wind: 4.74 Cloud cover: 0.0 Lat: 54.43 Lng: 119.94
 Success.  Appending data.
-Request city: miandrivazo at 03/28/2019, 14:15:00
-Response at 03/28/2019, 14:15:01
-City: Miandrivazo Country: MG Temp: 71.36 Humidity: 87.0 Wind: 3.38 Cloud cover: 76.0 Lat: -19.53 Lng: 45.46
+Request city: vologda at 03/28/2019, 22:34:53
+Response at 03/28/2019, 22:34:53
+City: Vologda Country: RU Temp: 29.75 Humidity: 94.0 Wind: 9.78 Cloud cover: 80.0 Lat: 59.22 Lng: 39.89
 Success.  Appending data.
-Request city: shima at 03/28/2019, 14:15:01
-Response at 03/28/2019, 14:15:02
-City: Shima Country: JP Temp: 46.4 Humidity: 49.0 Wind: 13.87 Cloud cover: 75.0 Lat: 34.34 Lng: 136.82
+Request city: maumere at 03/28/2019, 22:34:53
+Response at 03/28/2019, 22:34:53
+City: Maumere Country: ID Temp: 82.58 Humidity: 100.0 Wind: 2.39 Cloud cover: 36.0 Lat: -8.63 Lng: 122.22
+Success.  Appending data.
+Request city: kurumkan at 03/28/2019, 22:34:53
+Response at 03/28/2019, 22:34:54
+City: Kurumkan Country: RU Temp: 21.56 Humidity: 64.0 Wind: 2.28 Cloud cover: 64.0 Lat: 54.33 Lng: 110.32
+Success.  Appending data.
+Request city: benghazi at 03/28/2019, 22:34:54
+Response at 03/28/2019, 22:34:54
+City: Benghazi Country: LY Temp: 58.55 Humidity: 100.0 Wind: 20.29 Cloud cover: 92.0 Lat: 32.12 Lng: 20.07
+Success.  Appending data.
+Request city: ust-tsilma at 03/28/2019, 22:34:54
+Response at 03/28/2019, 22:34:54
+City: Ust-Tsilma Country: RU Temp: 28.58 Humidity: 72.0 Wind: 8.21 Cloud cover: 12.0 Lat: 65.44 Lng: 52.15
+Success.  Appending data.
+Request city: sigli at 03/28/2019, 22:34:54
+Response at 03/28/2019, 22:34:55
+City: Sigli Country: ID Temp: 83.57 Humidity: 94.0 Wind: 5.3 Cloud cover: 32.0 Lat: 5.38 Lng: 95.96
+Success.  Appending data.
+Request city: yuancheng at 03/28/2019, 22:34:55
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: netrakona at 03/28/2019, 22:34:55
+Response at 03/28/2019, 22:34:55
+City: Netrakona Country: BD Temp: 88.7 Humidity: 67.0 Wind: 5.64 Cloud cover: 0.0 Lat: 24.88 Lng: 90.72
+Success.  Appending data.
+Request city: maniitsoq at 03/28/2019, 22:34:55
+Response at 03/28/2019, 22:34:55
+City: Maniitsoq Country: GL Temp: 13.82 Humidity: 62.0 Wind: 15.03 Cloud cover: 20.0 Lat: 65.42 Lng: -52.9
+Success.  Appending data.
+Request city: umm jarr at 03/28/2019, 22:34:55
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: orda at 03/28/2019, 22:34:56
+Response at 03/28/2019, 22:34:56
+City: Orda Country: RU Temp: 33.17 Humidity: 98.0 Wind: 5.3 Cloud cover: 68.0 Lat: 57.2 Lng: 56.91
+Success.  Appending data.
+Request city: espinosa at 03/28/2019, 22:34:56
+Response at 03/28/2019, 22:34:56
+City: Espinosa Country: BR Temp: 67.1 Humidity: 91.0 Wind: 9.44 Cloud cover: 12.0 Lat: -14.92 Lng: -42.81
+Success.  Appending data.
+Request city: baloda bazar at 03/28/2019, 22:34:56
+Response at 03/28/2019, 22:34:57
+City: Baloda Bazar Country: IN Temp: 95.0 Humidity: 21.0 Wind: 5.82 Cloud cover: 0.0 Lat: 21.65 Lng: 82.17
+Success.  Appending data.
+Request city: atka at 03/28/2019, 22:34:57
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: karachi at 03/28/2019, 22:34:57
+Response at 03/28/2019, 22:34:57
+City: Karachi Country: PK Temp: 89.6 Humidity: 33.0 Wind: 6.93 Cloud cover: 75.0 Lat: 24.87 Lng: 67.03
+Success.  Appending data.
+Request city: mekhe at 03/28/2019, 22:34:57
+Response at 03/28/2019, 22:34:58
+City: Mekhe Country: SN Temp: 68.0 Humidity: 82.0 Wind: 18.34 Cloud cover: 0.0 Lat: 15.11 Lng: -16.62
+Success.  Appending data.
+Request city: tombouctou at 03/28/2019, 22:34:58
+Response at 03/28/2019, 22:34:58
+City: Timbuktu Country: ML Temp: 76.73 Humidity: 36.0 Wind: 1.5 Cloud cover: 48.0 Lat: 16.77 Lng: -3.01
+Success.  Appending data.
+Request city: juxtlahuaca at 03/28/2019, 22:34:58
+Response at 03/28/2019, 22:34:58
+City: Juxtlahuaca Country: MX Temp: 49.19 Humidity: 89.0 Wind: 1.39 Cloud cover: 0.0 Lat: 17.43 Lng: -99.15
+Success.  Appending data.
+Request city: kapoeta at 03/28/2019, 22:34:58
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Beginning data collection batch 2:
+Request city: rio grande at 03/28/2019, 22:35:02
+Response at 03/28/2019, 22:35:03
+City: Rio Grande Country: BR Temp: 72.14 Humidity: 82.0 Wind: 17.38 Cloud cover: 68.0 Lat: -32.03 Lng: -52.1
+Success.  Appending data.
+Request city: kiunga at 03/28/2019, 22:35:03
+Response at 03/28/2019, 22:35:04
+City: Kiunga Country: PG Temp: 87.53 Humidity: 67.0 Wind: 2.84 Cloud cover: 48.0 Lat: -6.12 Lng: 141.3
+Success.  Appending data.
+Request city: north myrtle beach at 03/28/2019, 22:35:04
+Response at 03/28/2019, 22:35:04
+City: North Myrtle Beach Country: US Temp: 45.43 Humidity: 93.0 Wind: 6.08 Cloud cover: 1.0 Lat: 33.83 Lng: -78.68
+Success.  Appending data.
+Request city: bouca at 03/28/2019, 22:35:04
+Response at 03/28/2019, 22:35:04
+City: Bouca Country: CF Temp: 75.92 Humidity: 72.0 Wind: 4.97 Cloud cover: 36.0 Lat: 6.51 Lng: 18.28
+Success.  Appending data.
+Request city: khorion at 03/28/2019, 22:35:04
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: qandala at 03/28/2019, 22:35:05
+Response at 03/28/2019, 22:35:06
+City: Qandala Country: SO Temp: 79.7 Humidity: 60.0 Wind: 0.27 Cloud cover: 0.0 Lat: 11.47 Lng: 49.87
+Success.  Appending data.
+Request city: santa barbara at 03/28/2019, 22:35:06
+Response at 03/28/2019, 22:35:07
+City: Santa Barbara Country: US Temp: 52.16 Humidity: 93.0 Wind: 4.7 Cloud cover: 1.0 Lat: 34.42 Lng: -119.7
+Success.  Appending data.
+Request city: nizhneyansk at 03/28/2019, 22:35:07
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: mangaldai at 03/28/2019, 22:35:08
+Response at 03/28/2019, 22:35:09
+City: Mangaldai Country: IN Temp: 86.0 Humidity: 48.0 Wind: 4.7 Cloud cover: 20.0 Lat: 26.43 Lng: 92.03
+Success.  Appending data.
+Request city: miandrivazo at 03/28/2019, 22:35:09
+Response at 03/28/2019, 22:35:09
+City: Miandrivazo Country: MG Temp: 80.24 Humidity: 68.0 Wind: 3.96 Cloud cover: 0.0 Lat: -19.53 Lng: 45.46
+Success.  Appending data.
+Request city: melfort at 03/28/2019, 22:35:09
+Response at 03/28/2019, 22:35:10
+City: Melfort Country: CA Temp: 37.4 Humidity: 74.0 Wind: 12.75 Cloud cover: 90.0 Lat: 52.87 Lng: -104.61
+Success.  Appending data.
+Request city: palmas at 03/28/2019, 22:35:10
+Response at 03/28/2019, 22:35:10
+City: Palmas Country: BR Temp: 75.2 Humidity: 100.0 Wind: 2.24 Cloud cover: 40.0 Lat: -10.18 Lng: -48.33
+Success.  Appending data.
+Request city: balakovo at 03/28/2019, 22:35:10
+Response at 03/28/2019, 22:35:11
+City: Balakovo Country: RU Temp: 30.02 Humidity: 97.0 Wind: 6.64 Cloud cover: 32.0 Lat: 52.02 Lng: 47.82
+Success.  Appending data.
+Request city: atuona at 03/28/2019, 22:35:11
+Response at 03/28/2019, 22:35:12
+City: Atuona Country: PF Temp: 80.69 Humidity: 100.0 Wind: 14.7 Cloud cover: 92.0 Lat: -9.8 Lng: -139.03
+Success.  Appending data.
+Request city: odweyne at 03/28/2019, 22:35:12
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: weihe at 03/28/2019, 22:35:13
+Response at 03/28/2019, 22:35:13
+City: Weihe Country: CN Temp: 68.27 Humidity: 23.0 Wind: 2.73 Cloud cover: 0.0 Lat: 32.99 Lng: 105.33
+Success.  Appending data.
+Request city: adet at 03/28/2019, 22:35:13
+Response at 03/28/2019, 22:35:14
+City: Adet Country: ET Temp: 63.32 Humidity: 80.0 Wind: 4.52 Cloud cover: 0.0 Lat: 11.26 Lng: 37.49
+Success.  Appending data.
+Request city: rabo de peixe at 03/28/2019, 22:35:14
+Response at 03/28/2019, 22:35:15
+City: Rabo de Peixe Country: PT Temp: 55.2 Humidity: 76.0 Wind: 6.93 Cloud cover: 40.0 Lat: 37.8 Lng: -25.58
+Success.  Appending data.
+Request city: tucurui at 03/28/2019, 22:35:15
+Response at 03/28/2019, 22:35:16
+City: Tucurui Country: BR Temp: 73.04 Humidity: 99.0 Wind: 1.05 Cloud cover: 92.0 Lat: -3.77 Lng: -49.67
+Success.  Appending data.
+Request city: alekseyevka at 03/28/2019, 22:35:16
+Response at 03/28/2019, 22:35:16
+City: Alekseyevka Country: RU Temp: 26.6 Humidity: 86.0 Wind: 8.95 Cloud cover: 0.0 Lat: 53.25 Lng: 50.49
+Success.  Appending data.
+Beginning data collection batch 3:
+Request city: catamarca at 03/28/2019, 22:35:20
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: port lavaca at 03/28/2019, 22:35:20
+Response at 03/28/2019, 22:35:21
+City: Port Lavaca Country: US Temp: 63.84 Humidity: 82.0 Wind: 4.7 Cloud cover: 1.0 Lat: 28.61 Lng: -96.63
+Success.  Appending data.
+Request city: sherlovaya gora at 03/28/2019, 22:35:21
+Response at 03/28/2019, 22:35:22
+City: Sherlovaya Gora Country: RU Temp: 28.67 Humidity: 28.0 Wind: 12.68 Cloud cover: 12.0 Lat: 50.53 Lng: 116.31
+Success.  Appending data.
+Request city: ngozi at 03/28/2019, 22:35:22
+Response at 03/28/2019, 22:35:23
+City: Ngozi Country: BI Temp: 63.68 Humidity: 92.0 Wind: 4.18 Cloud cover: 0.0 Lat: -2.91 Lng: 29.82
+Success.  Appending data.
+Request city: vryburg at 03/28/2019, 22:35:23
+Response at 03/28/2019, 22:35:24
+City: Vryburg Country: ZA Temp: 65.21 Humidity: 69.0 Wind: 2.73 Cloud cover: 0.0 Lat: -26.96 Lng: 24.73
+Success.  Appending data.
+Request city: fort abbas at 03/28/2019, 22:35:24
+Response at 03/28/2019, 22:35:24
+City: Fort Abbas Country: PK Temp: 93.56 Humidity: 45.0 Wind: 2.84 Cloud cover: 8.0 Lat: 29.19 Lng: 72.85
+Success.  Appending data.
+Request city: dwarka at 03/28/2019, 22:35:24
+Response at 03/28/2019, 22:35:25
+City: Dwarka Country: IN Temp: 88.68 Humidity: 40.0 Wind: 3.36 Cloud cover: 0.0 Lat: 28.58 Lng: 77.04
+Success.  Appending data.
+Request city: porto-vecchio at 03/28/2019, 22:35:25
+Response at 03/28/2019, 22:35:26
+City: Porto-Vecchio Country: FR Temp: 41.04 Humidity: 69.0 Wind: 5.82 Cloud cover: 0.0 Lat: 41.59 Lng: 9.28
+Success.  Appending data.
+Request city: turayf at 03/28/2019, 22:35:26
+Response at 03/28/2019, 22:35:28
+City: Turayf Country: SA Temp: 51.8 Humidity: 66.0 Wind: 4.41 Cloud cover: 90.0 Lat: 31.68 Lng: 38.65
+Success.  Appending data.
+Request city: kolokani at 03/28/2019, 22:35:28
+Response at 03/28/2019, 22:35:29
+City: Kolokani Country: ML Temp: 76.82 Humidity: 71.0 Wind: 0.27 Cloud cover: 80.0 Lat: 13.58 Lng: -8.03
+Success.  Appending data.
+Request city: patratu at 03/28/2019, 22:35:29
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: hohoe at 03/28/2019, 22:35:29
+Response at 03/28/2019, 22:35:30
+City: Hohoe Country: GH Temp: 70.7 Humidity: 93.0 Wind: 3.4 Cloud cover: 0.0 Lat: 7.15 Lng: 0.48
+Success.  Appending data.
+Request city: kushmurun at 03/28/2019, 22:35:30
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: koulamoutou at 03/28/2019, 22:35:31
+Response at 03/28/2019, 22:35:31
+City: Koulamoutou Country: GA Temp: 70.25 Humidity: 98.0 Wind: 2.73 Cloud cover: 92.0 Lat: -1.13 Lng: 12.47
+Success.  Appending data.
+Beginning data collection batch 4:
+Request city: kesennuma at 03/28/2019, 22:35:35
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: varhaug at 03/28/2019, 22:35:36
+Response at 03/28/2019, 22:35:37
+City: Varhaug Country: NO Temp: 43.43 Humidity: 93.0 Wind: 6.93 Cloud cover: 75.0 Lat: 58.61 Lng: 5.65
+Success.  Appending data.
+Request city: linguere at 03/28/2019, 22:35:37
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: jian at 03/28/2019, 22:35:38
+Response at 03/28/2019, 22:35:38
+City: Jian Country: IN Temp: 92.66 Humidity: 42.0 Wind: 8.66 Cloud cover: 0.0 Lat: 25.65 Lng: 87.89
+Success.  Appending data.
+Request city: marrakesh at 03/28/2019, 22:35:38
+Response at 03/28/2019, 22:35:40
+City: Marrakesh Country: MA Temp: 57.2 Humidity: 87.0 Wind: 3.36 Cloud cover: 40.0 Lat: 31.63 Lng: -7.99
+Success.  Appending data.
+Request city: tendo at 03/28/2019, 22:35:40
+Response at 03/28/2019, 22:35:41
+City: Tendo Country: JP Temp: 51.19 Humidity: 36.0 Wind: 10.29 Cloud cover: 40.0 Lat: 38.35 Lng: 140.4
+Success.  Appending data.
+Request city: barrhead at 03/28/2019, 22:35:41
+Response at 03/28/2019, 22:35:42
+City: Barrhead Country: CA Temp: 33.8 Humidity: 74.0 Wind: 3.36 Cloud cover: 20.0 Lat: 54.12 Lng: -114.4
+Success.  Appending data.
+Request city: shively at 03/28/2019, 22:35:42
+Response at 03/28/2019, 22:35:42
+City: Shively Country: US Temp: 61.97 Humidity: 41.0 Wind: 5.82 Cloud cover: 1.0 Lat: 38.2 Lng: -85.82
+Success.  Appending data.
+Request city: moose factory at 03/28/2019, 22:35:42
+Response at 03/28/2019, 22:35:43
+City: Moose Factory Country: CA Temp: 10.4 Humidity: 66.0 Wind: 10.29 Cloud cover: 75.0 Lat: 51.26 Lng: -80.61
+Success.  Appending data.
+Request city: jining at 03/28/2019, 22:35:43
+Response at 03/28/2019, 22:35:44
+City: Jining Country: CN Temp: 57.0 Humidity: 46.0 Wind: 9.78 Cloud cover: 64.0 Lat: 35.41 Lng: 116.58
+Success.  Appending data.
+Request city: alcudia at 03/28/2019, 22:35:44
+Response at 03/28/2019, 22:35:44
+City: Alcudia Country: ES Temp: 43.61 Humidity: 100.0 Wind: 4.7 Cloud cover: 0.0 Lat: 39.85 Lng: 3.12
+Success.  Appending data.
+Request city: bria at 03/28/2019, 22:35:44
+Response at 03/28/2019, 22:35:44
+City: Bria Country: CF Temp: 73.85 Humidity: 62.0 Wind: 4.18 Cloud cover: 0.0 Lat: 6.54 Lng: 21.99
+Success.  Appending data.
+Request city: kokoda at 03/28/2019, 22:35:44
+Response at 03/28/2019, 22:35:45
+City: Kokoda Country: PG Temp: 67.55 Humidity: 94.0 Wind: 1.72 Cloud cover: 92.0 Lat: -8.88 Lng: 147.74
+Success.  Appending data.
+Request city: maracaibo at 03/28/2019, 22:35:45
+Response at 03/28/2019, 22:35:45
+City: Maracaibo Country: CO Temp: 73.4 Humidity: 83.0 Wind: 4.7 Cloud cover: 75.0 Lat: 3.41 Lng: -75.78
+Success.  Appending data.
+Request city: lar at 03/28/2019, 22:35:45
+Response at 03/28/2019, 22:35:45
+City: Lar Country: IR Temp: 62.6 Humidity: 63.0 Wind: 2.62 Cloud cover: 0.0 Lat: 27.66 Lng: 54.32
+Success.  Appending data.
+Request city: kushikino at 03/28/2019, 22:35:45
+Response at 03/28/2019, 22:35:46
+City: Kushikino Country: JP Temp: 64.15 Humidity: 45.0 Wind: 8.05 Cloud cover: 75.0 Lat: 31.72 Lng: 130.27
+Success.  Appending data.
+Request city: ubrique at 03/28/2019, 22:35:46
+Response at 03/28/2019, 22:35:46
+City: Ubrique Country: ES Temp: 49.57 Humidity: 75.0 Wind: 8.32 Cloud cover: 0.0 Lat: 36.68 Lng: -5.45
+Success.  Appending data.
+Request city: derbent at 03/28/2019, 22:35:46
+Response at 03/28/2019, 22:35:46
+City: Derbent Country: RU Temp: 34.52 Humidity: 93.0 Wind: 4.07 Cloud cover: 88.0 Lat: 42.06 Lng: 48.29
+Success.  Appending data.
+Request city: navahrudak at 03/28/2019, 22:35:47
+Response at 03/28/2019, 22:35:47
+City: Navahrudak Country: BY Temp: 36.86 Humidity: 84.0 Wind: 12.35 Cloud cover: 8.0 Lat: 53.59 Lng: 25.82
+Success.  Appending data.
+Request city: graaff-reinet at 03/28/2019, 22:35:47
+Response at 03/28/2019, 22:35:48
+City: Graaff-Reinet Country: ZA Temp: 55.67 Humidity: 61.0 Wind: 1.72 Cloud cover: 8.0 Lat: -32.25 Lng: 24.53
+Success.  Appending data.
+Beginning data collection batch 5:
+Request city: odweyne at 03/28/2019, 22:35:52
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: komsomolskiy at 03/28/2019, 22:35:52
+Response at 03/28/2019, 22:35:52
+City: Komsomolskiy Country: RU Temp: 26.06 Humidity: 92.0 Wind: 13.69 Cloud cover: 0.0 Lat: 67.55 Lng: 63.78
+Success.  Appending data.
+Request city: bom jardim at 03/28/2019, 22:35:52
+Response at 03/28/2019, 22:35:54
+City: Bom Jardim Country: BR Temp: 71.6 Humidity: 94.0 Wind: 5.64 Cloud cover: 40.0 Lat: -7.8 Lng: -35.59
+Success.  Appending data.
+Request city: keningau at 03/28/2019, 22:35:54
+Response at 03/28/2019, 22:35:54
+City: Keningau Country: MY Temp: 91.4 Humidity: 63.0 Wind: 6.93 Cloud cover: 75.0 Lat: 5.33 Lng: 116.16
+Success.  Appending data.
+Request city: bajil at 03/28/2019, 22:35:54
+Response at 03/28/2019, 22:35:54
+City: Bajil Country: ES Temp: 41.09 Humidity: 93.0 Wind: 3.06 Cloud cover: 92.0 Lat: 38.23 Lng: -2.07
+Success.  Appending data.
+Request city: akbarpur at 03/28/2019, 22:35:54
+Response at 03/28/2019, 22:35:55
+City: Akbarpur Country: IN Temp: 89.51 Humidity: 62.0 Wind: 5.64 Cloud cover: 0.0 Lat: 26.42 Lng: 82.54
+Success.  Appending data.
+Request city: mastung at 03/28/2019, 22:35:55
+Response at 03/28/2019, 22:35:56
+City: Mastung Country: PK Temp: 64.04 Humidity: 53.0 Wind: 8.21 Cloud cover: 0.0 Lat: 29.8 Lng: 66.85
+Success.  Appending data.
+Request city: hearst at 03/28/2019, 22:35:56
+Response at 03/28/2019, 22:35:58
+City: Hearst Country: CA Temp: 19.94 Humidity: 65.0 Wind: 3.85 Cloud cover: 64.0 Lat: 49.69 Lng: -83.67
+Success.  Appending data.
+Request city: qinzhou at 03/28/2019, 22:35:58
+Response at 03/28/2019, 22:35:58
+City: Qinzhou Country: CN Temp: 81.5 Humidity: 81.0 Wind: 3.18 Cloud cover: 12.0 Lat: 21.96 Lng: 108.62
+Success.  Appending data.
+Request city: kabalo at 03/28/2019, 22:35:58
+Response at 03/28/2019, 22:35:59
+City: Kabalo Country: CD Temp: 71.78 Humidity: 99.0 Wind: 7.76 Cloud cover: 36.0 Lat: -6.05 Lng: 26.92
+Success.  Appending data.
+Request city: huntsville at 03/28/2019, 22:35:59
+Response at 03/28/2019, 22:36:01
+City: Huntsville Country: US Temp: 51.89 Humidity: 50.0 Wind: 6.93 Cloud cover: 1.0 Lat: 34.73 Lng: -86.59
+Success.  Appending data.
+Request city: escanaba at 03/28/2019, 22:36:01
+Response at 03/28/2019, 22:36:03
+City: Escanaba Country: US Temp: 29.08 Humidity: 80.0 Wind: 3.36 Cloud cover: 90.0 Lat: 45.75 Lng: -87.06
+Success.  Appending data.
+Request city: rab at 03/28/2019, 22:36:03
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: obo at 03/28/2019, 22:36:05
+Response at 03/28/2019, 22:36:06
+City: Obo Country: CF Temp: 76.64 Humidity: 83.0 Wind: 4.97 Cloud cover: 0.0 Lat: 5.39 Lng: 26.49
+Success.  Appending data.
+Request city: boyuibe at 03/28/2019, 22:36:06
+Response at 03/28/2019, 22:36:06
+City: Boyuibe Country: BO Temp: 61.25 Humidity: 90.0 Wind: 5.3 Cloud cover: 8.0 Lat: -20.43 Lng: -63.28
+Success.  Appending data.
+Request city: kotelnich at 03/28/2019, 22:36:06
+Response at 03/28/2019, 22:36:07
+City: Kotelnich Country: RU Temp: 31.1 Humidity: 86.0 Wind: 7.99 Cloud cover: 20.0 Lat: 58.31 Lng: 48.34
+Success.  Appending data.
+Request city: sao raimundo nonato at 03/28/2019, 22:36:07
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: laurel at 03/28/2019, 22:36:08
+Response at 03/28/2019, 22:36:08
+City: Laurel Country: US Temp: 33.93 Humidity: 93.0 Wind: 8.05 Cloud cover: 90.0 Lat: 45.67 Lng: -108.77
+Success.  Appending data.
+Request city: ushibuka at 03/28/2019, 22:36:08
+Response at 03/28/2019, 22:36:10
+City: Ushibuka Country: JP Temp: 59.0 Humidity: 88.0 Wind: 2.95 Cloud cover: 64.0 Lat: 32.19 Lng: 130.02
+Success.  Appending data.
+Request city: port augusta at 03/28/2019, 22:36:10
+Response at 03/28/2019, 22:36:10
+City: Port Augusta Country: AU Temp: 71.8 Humidity: 49.0 Wind: 24.16 Cloud cover: 0.0 Lat: -32.49 Lng: 137.76
+Success.  Appending data.
+Beginning data collection batch 6:
+Request city: preston at 03/28/2019, 22:36:14
+Response at 03/28/2019, 22:36:15
+City: Preston Country: GB Temp: 37.44 Humidity: 93.0 Wind: 2.24 Cloud cover: 0.0 Lat: 53.76 Lng: -2.71
+Success.  Appending data.
+Request city: tombouctou at 03/28/2019, 22:36:15
+Response at 03/28/2019, 22:36:15
+City: Timbuktu Country: ML Temp: 76.73 Humidity: 36.0 Wind: 1.5 Cloud cover: 48.0 Lat: 16.77 Lng: -3.01
+Success.  Appending data.
+Request city: wadi musa at 03/28/2019, 22:36:15
+Response at 03/28/2019, 22:36:16
+City: Wadi Musa Country: JO Temp: 59.0 Humidity: 62.0 Wind: 8.05 Cloud cover: 75.0 Lat: 30.32 Lng: 35.48
+Success.  Appending data.
+Request city: horsham at 03/28/2019, 22:36:16
+Response at 03/28/2019, 22:36:16
+City: Horsham Country: AU Temp: 63.23 Humidity: 78.0 Wind: 16.15 Cloud cover: 8.0 Lat: -36.71 Lng: 142.2
+Success.  Appending data.
+Request city: nisia floresta at 03/28/2019, 22:36:16
+Response at 03/28/2019, 22:36:16
+City: Nisia Floresta Country: BR Temp: 77.86 Humidity: 88.0 Wind: 3.36 Cloud cover: 75.0 Lat: -6.09 Lng: -35.21
+Success.  Appending data.
+Request city: derzhavinsk at 03/28/2019, 22:36:16
+Response at 03/28/2019, 22:36:18
+City: Derzhavinsk Country: KZ Temp: 40.37 Humidity: 100.0 Wind: 18.5 Cloud cover: 88.0 Lat: 51.1 Lng: 66.31
+Success.  Appending data.
+Request city: mweka at 03/28/2019, 22:36:18
+Response at 03/28/2019, 22:36:18
+City: Mweka Country: CD Temp: 76.73 Humidity: 92.0 Wind: 3.4 Cloud cover: 0.0 Lat: -4.85 Lng: 21.56
+Success.  Appending data.
+Request city: yumen at 03/28/2019, 22:36:18
+Response at 03/28/2019, 22:36:18
+City: Yumen Country: CN Temp: 46.67 Humidity: 47.0 Wind: 8.88 Cloud cover: 8.0 Lat: 40.29 Lng: 97.04
+Success.  Appending data.
+Request city: coalinga at 03/28/2019, 22:36:18
+Response at 03/28/2019, 22:36:18
+City: Coalinga Country: US Temp: 52.21 Humidity: 50.0 Wind: 21.92 Cloud cover: 75.0 Lat: 36.14 Lng: -120.36
+Success.  Appending data.
+Request city: pravda at 03/28/2019, 22:36:18
+Response at 03/28/2019, 22:36:19
+City: Pravda Country: BG Temp: 24.8 Humidity: 100.0 Wind: 2.24 Cloud cover: 36.0 Lat: 43.16 Lng: 25.69
+Success.  Appending data.
+Request city: ha at 03/28/2019, 22:36:19
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: urengoy at 03/28/2019, 22:36:19
+Response at 03/28/2019, 22:36:20
+City: Urengoy Country: RU Temp: 34.25 Humidity: 97.0 Wind: 13.69 Cloud cover: 88.0 Lat: 65.96 Lng: 78.37
+Success.  Appending data.
+Request city: la ronge at 03/28/2019, 22:36:20
+Response at 03/28/2019, 22:36:20
+City: La Ronge Country: CA Temp: 33.8 Humidity: 69.0 Wind: 17.22 Cloud cover: 75.0 Lat: 55.1 Lng: -105.3
+Success.  Appending data.
+Request city: godfrey at 03/28/2019, 22:36:20
+Response at 03/28/2019, 22:36:21
+City: Godfrey Country: US Temp: 55.11 Humidity: 100.0 Wind: 6.93 Cloud cover: 90.0 Lat: 38.96 Lng: -90.19
+Success.  Appending data.
+Request city: ha tinh at 03/28/2019, 22:36:21
+Response at 03/28/2019, 22:36:21
+City: Ha Tinh Country: VN Temp: 75.02 Humidity: 100.0 Wind: 6.76 Cloud cover: 12.0 Lat: 18.33 Lng: 105.9
+Success.  Appending data.
+Request city: urucara at 03/28/2019, 22:36:21
+Response at 03/28/2019, 22:36:22
+City: Urucara Country: BR Temp: 75.92 Humidity: 93.0 Wind: 1.95 Cloud cover: 48.0 Lat: -2.54 Lng: -57.76
+Success.  Appending data.
+Request city: calawag at 03/28/2019, 22:36:22
+Response at 03/28/2019, 22:36:23
+City: Calawag Country: PH Temp: 86.72 Humidity: 72.0 Wind: 5.41 Cloud cover: 32.0 Lat: 10.67 Lng: 119.57
+Success.  Appending data.
+Request city: kinshasa at 03/28/2019, 22:36:23
+Response at 03/28/2019, 22:36:25
+City: Kinshasa Country: CD Temp: 74.32 Humidity: 94.0 Wind: 3.51 Cloud cover: 20.0 Lat: -4.32 Lng: 15.31
+Success.  Appending data.
+Request city: serta at 03/28/2019, 22:36:25
+Response at 03/28/2019, 22:36:25
+City: Serta Country: IT Temp: 40.57 Humidity: 65.0 Wind: 6.93 Cloud cover: 40.0 Lat: 46.01 Lng: 10.15
+Success.  Appending data.
+Request city: morden at 03/28/2019, 22:36:25
+Response at 03/28/2019, 22:36:25
+City: Morden Country: CA Temp: 27.66 Humidity: 74.0 Wind: 5.82 Cloud cover: 20.0 Lat: 49.19 Lng: -98.1
+Success.  Appending data.
+Beginning data collection batch 7:
+Request city: mentok at 03/28/2019, 22:36:29
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: aleksandrov gay at 03/28/2019, 22:36:32
+Response at 03/28/2019, 22:36:32
+City: Aleksandrov Gay Country: RU Temp: 32.36 Humidity: 99.0 Wind: 10.89 Cloud cover: 0.0 Lat: 50.14 Lng: 48.57
+Success.  Appending data.
+Request city: babynino at 03/28/2019, 22:36:32
+Response at 03/28/2019, 22:36:33
+City: Babynino Country: RU Temp: 32.0 Humidity: 96.0 Wind: 8.95 Cloud cover: 75.0 Lat: 54.39 Lng: 35.75
+Success.  Appending data.
+Request city: lhokseumawe at 03/28/2019, 22:36:33
+Response at 03/28/2019, 22:36:34
+City: Lhokseumawe Country: ID Temp: 85.91 Humidity: 93.0 Wind: 9.22 Cloud cover: 20.0 Lat: 5.18 Lng: 97.15
+Success.  Appending data.
+Request city: hashtrud at 03/28/2019, 22:36:34
+Response at 03/28/2019, 22:36:35
+City: Hashtrud Country: IR Temp: 41.36 Humidity: 73.0 Wind: 7.76 Cloud cover: 20.0 Lat: 37.48 Lng: 47.05
+Success.  Appending data.
+Request city: madarounfa at 03/28/2019, 22:36:35
+Response at 03/28/2019, 22:36:36
+City: Madarounfa Country: NE Temp: 69.98 Humidity: 25.0 Wind: 10.11 Cloud cover: 0.0 Lat: 13.3 Lng: 7.16
+Success.  Appending data.
+Request city: filingue at 03/28/2019, 22:36:36
+Response at 03/28/2019, 22:36:36
+City: Filingue Country: NE Temp: 72.41 Humidity: 25.0 Wind: 10.78 Cloud cover: 0.0 Lat: 14.35 Lng: 3.32
+Success.  Appending data.
+Request city: ransang at 03/28/2019, 22:36:36
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: durango at 03/28/2019, 22:36:37
+Response at 03/28/2019, 22:36:37
+City: Durango Country: US Temp: 43.47 Humidity: 45.0 Wind: 3.85 Cloud cover: 1.0 Lat: 37.28 Lng: -107.88
+Success.  Appending data.
+Request city: marshall at 03/28/2019, 22:36:37
+Response at 03/28/2019, 22:36:37
+City: Marshall Country: US Temp: 53.83 Humidity: 93.0 Wind: 6.93 Cloud cover: 90.0 Lat: 39.39 Lng: -87.69
+Success.  Appending data.
+Request city: poum at 03/28/2019, 22:36:37
+Response at 03/28/2019, 22:36:38
+City: Poum Country: MK Temp: 31.55 Humidity: 53.0 Wind: 1.61 Cloud cover: 24.0 Lat: 41.28 Lng: 20.71
+Success.  Appending data.
+Request city: emporia at 03/28/2019, 22:36:38
+Response at 03/28/2019, 22:36:38
+City: Emporia Country: US Temp: 52.34 Humidity: 100.0 Wind: 9.17 Cloud cover: 90.0 Lat: 38.4 Lng: -96.18
+Success.  Appending data.
+Request city: ankang at 03/28/2019, 22:36:38
+Response at 03/28/2019, 22:36:38
+City: Ankang Country: CN Temp: 58.73 Humidity: 44.0 Wind: 3.96 Cloud cover: 64.0 Lat: 32.73 Lng: 108.99
+Success.  Appending data.
+Request city: dubai at 03/28/2019, 22:36:38
+Response at 03/28/2019, 22:36:40
+City: Dubai Country: AE Temp: 74.03 Humidity: 78.0 Wind: 3.36 Cloud cover: 0.0 Lat: 25.27 Lng: 55.3
+Success.  Appending data.
+Request city: umtata at 03/28/2019, 22:36:40
+Response at 03/28/2019, 22:36:40
+City: Umtata Country: ZA Temp: 57.2 Humidity: 82.0 Wind: 1.12 Cloud cover: 0.0 Lat: -31.59 Lng: 28.78
+Success.  Appending data.
+Request city: pendleton at 03/28/2019, 22:36:40
+Response at 03/28/2019, 22:36:40
+City: Pendleton Country: US Temp: 42.82 Humidity: 93.0 Wind: 2.95 Cloud cover: 1.0 Lat: 34.65 Lng: -82.78
+Success.  Appending data.
+Request city: baruun-urt at 03/28/2019, 22:36:40
+Response at 03/28/2019, 22:36:41
+City: Baruun-Urt Country: MN Temp: 30.02 Humidity: 25.0 Wind: 13.8 Cloud cover: 44.0 Lat: 46.68 Lng: 113.28
+Success.  Appending data.
+Request city: vicuna at 03/28/2019, 22:36:41
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: los barrios at 03/28/2019, 22:36:41
+Response at 03/28/2019, 22:36:42
+City: Los Barrios Country: ES Temp: 58.39 Humidity: 72.0 Wind: 29.97 Cloud cover: 92.0 Lat: 36.19 Lng: -5.49
+Success.  Appending data.
+Request city: bako at 03/28/2019, 22:36:42
+Response at 03/28/2019, 22:36:42
+City: Bako Country: NG Temp: 84.2 Humidity: 39.0 Wind: 5.82 Cloud cover: 0.0 Lat: 9.68 Lng: 6.4
+Success.  Appending data.
+Beginning data collection batch 8:
+Request city: heihe at 03/28/2019, 22:36:46
+Response at 03/28/2019, 22:36:47
+City: Heihe Country: RU Temp: 30.2 Humidity: 26.0 Wind: 8.95 Cloud cover: 40.0 Lat: 50.24 Lng: 127.51
+Success.  Appending data.
+Request city: tsaratanana at 03/28/2019, 22:36:47
+Response at 03/28/2019, 22:36:49
+City: Tsaratanana Country: MG Temp: 79.07 Humidity: 84.0 Wind: 2.62 Cloud cover: 0.0 Lat: -16.8 Lng: 47.65
+Success.  Appending data.
+Request city: tommot at 03/28/2019, 22:36:49
+Response at 03/28/2019, 22:36:50
+City: Tommot Country: RU Temp: 20.39 Humidity: 48.0 Wind: 3.62 Cloud cover: 32.0 Lat: 58.97 Lng: 126.27
+Success.  Appending data.
+Request city: scottsburgh at 03/28/2019, 22:36:50
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: rongcheng at 03/28/2019, 22:36:52
+Response at 03/28/2019, 22:36:52
+City: Rongcheng Country: CN Temp: 48.0 Humidity: 66.0 Wind: 10.0 Cloud cover: 92.0 Lat: 37.16 Lng: 122.42
+Success.  Appending data.
+Request city: obregon at 03/28/2019, 22:36:52
+Response at 03/28/2019, 22:36:53
+City: Obregon Country: US Temp: 67.37 Humidity: 28.0 Wind: 17.22 Cloud cover: 1.0 Lat: 32.86 Lng: -114.79
+Success.  Appending data.
+Request city: constitucion at 03/28/2019, 22:36:53
+Response at 03/28/2019, 22:36:54
+City: Constitucion Country: MX Temp: 61.0 Humidity: 28.0 Wind: 4.0 Cloud cover: 0.0 Lat: 23.99 Lng: -104.67
+Success.  Appending data.
+Request city: yovon at 03/28/2019, 22:36:54
+Response at 03/28/2019, 22:36:54
+City: Yovon Country: TJ Temp: 62.6 Humidity: 59.0 Wind: 6.71 Cloud cover: 75.0 Lat: 38.32 Lng: 69.05
+Success.  Appending data.
+Request city: shambu at 03/28/2019, 22:36:54
+Response at 03/28/2019, 22:36:55
+City: Shambu Country: ET Temp: 59.63 Humidity: 98.0 Wind: 3.96 Cloud cover: 88.0 Lat: 9.57 Lng: 37.1
+Success.  Appending data.
+Request city: aktau at 03/28/2019, 22:36:55
+Response at 03/28/2019, 22:36:55
+City: Aktau Country: KZ Temp: 41.0 Humidity: 93.0 Wind: 4.47 Cloud cover: 90.0 Lat: 43.65 Lng: 51.16
+Success.  Appending data.
+Request city: vila at 03/28/2019, 22:36:55
+Response at 03/28/2019, 22:36:56
+City: Vila Country: IT Temp: 40.89 Humidity: 81.0 Wind: 10.29 Cloud cover: 0.0 Lat: 45.18 Lng: 8.4
+Success.  Appending data.
+Request city: malumfashi at 03/28/2019, 22:36:56
+Response at 03/28/2019, 22:36:56
+City: Malumfashi Country: NG Temp: 69.08 Humidity: 25.0 Wind: 10.22 Cloud cover: 0.0 Lat: 11.79 Lng: 7.62
+Success.  Appending data.
+Request city: ukiah at 03/28/2019, 22:36:56
+Response at 03/28/2019, 22:36:57
+City: Ukiah Country: US Temp: 45.14 Humidity: 87.0 Wind: 2.39 Cloud cover: 1.0 Lat: 39.15 Lng: -123.21
+Success.  Appending data.
+Request city: afmadu at 03/28/2019, 22:36:57
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: chissamba at 03/28/2019, 22:36:57
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: trabzon at 03/28/2019, 22:36:57
+Response at 03/28/2019, 22:36:58
+City: Trabzon Country: TR Temp: 44.85 Humidity: 65.0 Wind: 3.36 Cloud cover: 75.0 Lat: 41.01 Lng: 39.72
+Success.  Appending data.
+Request city: kango at 03/28/2019, 22:36:58
+Response at 03/28/2019, 22:36:58
+City: Kango Country: GA Temp: 74.03 Humidity: 94.0 Wind: 3.06 Cloud cover: 64.0 Lat: 0.19 Lng: 10.1
+Success.  Appending data.
+Request city: guiratinga at 03/28/2019, 22:36:58
+Response at 03/28/2019, 22:36:59
+City: Guiratinga Country: BR Temp: 74.03 Humidity: 89.0 Wind: 6.53 Cloud cover: 56.0 Lat: -16.35 Lng: -53.76
+Success.  Appending data.
+Request city: nguru at 03/28/2019, 22:36:59
+Response at 03/28/2019, 22:36:59
+City: Nguru Country: NG Temp: 70.97 Humidity: 25.0 Wind: 9.44 Cloud cover: 0.0 Lat: 12.88 Lng: 10.45
+Success.  Appending data.
+Request city: mala at 03/28/2019, 22:36:59
+Response at 03/28/2019, 22:37:02
+City: Mala Country: PE Temp: 68.0 Humidity: 95.0 Wind: 5.64 Cloud cover: 44.0 Lat: -12.66 Lng: -76.63
+Success.  Appending data.
+Beginning data collection batch 9:
+Request city: ust-nera at 03/28/2019, 22:37:06
+Response at 03/28/2019, 22:37:07
+City: Ust-Nera Country: RU Temp: 13.91 Humidity: 65.0 Wind: 2.62 Cloud cover: 0.0 Lat: 64.57 Lng: 143.24
+Success.  Appending data.
+Request city: jiuquan at 03/28/2019, 22:37:07
+Response at 03/28/2019, 22:37:10
+City: Jiuquan Country: CN Temp: 38.39 Humidity: 79.0 Wind: 4.41 Cloud cover: 20.0 Lat: 39.73 Lng: 98.49
+Success.  Appending data.
+Request city: pyaozerskiy at 03/28/2019, 22:37:10
+Response at 03/28/2019, 22:37:11
+City: Pyaozerskiy Country: RU Temp: 41.45 Humidity: 73.0 Wind: 16.49 Cloud cover: 0.0 Lat: 65.83 Lng: 31.17
+Success.  Appending data.
+Request city: vieste at 03/28/2019, 22:37:11
+Response at 03/28/2019, 22:37:12
+City: Vieste Country: IT Temp: 39.2 Humidity: 86.0 Wind: 8.05 Cloud cover: 20.0 Lat: 41.88 Lng: 16.18
+Success.  Appending data.
+Request city: mufumbwe at 03/28/2019, 22:37:12
+Response at 03/28/2019, 22:37:13
+City: Mufumbwe Country: ZM Temp: 69.17 Humidity: 84.0 Wind: 7.99 Cloud cover: 0.0 Lat: -13.68 Lng: 24.8
+Success.  Appending data.
+Request city: coihaique at 03/28/2019, 22:37:13
+Response at 03/28/2019, 22:37:15
+City: Coihaique Country: CL Temp: 52.79 Humidity: 66.0 Wind: 4.7 Cloud cover: 56.0 Lat: -45.58 Lng: -72.07
+Success.  Appending data.
+Request city: lavrentiya at 03/28/2019, 22:37:15
+Response at 03/28/2019, 22:37:15
+City: Lavrentiya Country: RU Temp: 31.28 Humidity: 93.0 Wind: 17.27 Cloud cover: 80.0 Lat: 65.58 Lng: -170.99
+Success.  Appending data.
+Request city: grand-santi at 03/28/2019, 22:37:15
+Response at 03/28/2019, 22:37:16
+City: Grand-Santi Country: GF Temp: 76.01 Humidity: 82.0 Wind: 3.74 Cloud cover: 12.0 Lat: 4.27 Lng: -54.38
+Success.  Appending data.
+Request city: ust-kamchatsk at 03/28/2019, 22:37:16
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: chivay at 03/28/2019, 22:37:17
+Response at 03/28/2019, 22:37:21
+City: Chivay Country: PE Temp: 34.16 Humidity: 100.0 Wind: 2.62 Cloud cover: 80.0 Lat: -15.64 Lng: -71.6
+Success.  Appending data.
+Request city: caluquembe at 03/28/2019, 22:37:21
+Response at 03/28/2019, 22:37:22
+City: Caluquembe Country: AO Temp: 60.26 Humidity: 90.0 Wind: 2.62 Cloud cover: 0.0 Lat: -13.78 Lng: 14.68
+Success.  Appending data.
+Request city: rongcheng at 03/28/2019, 22:37:22
+Response at 03/28/2019, 22:37:23
+City: Rongcheng Country: CN Temp: 48.0 Humidity: 66.0 Wind: 10.0 Cloud cover: 92.0 Lat: 37.16 Lng: 122.42
+Success.  Appending data.
+Request city: mandera at 03/28/2019, 22:37:23
+Response at 03/28/2019, 22:37:23
+City: Mandera Country: ET Temp: 82.76 Humidity: 61.0 Wind: 6.42 Cloud cover: 0.0 Lat: 3.94 Lng: 41.86
+Success.  Appending data.
+Request city: pulandian at 03/28/2019, 22:37:23
+Response at 03/28/2019, 22:37:24
+City: Pulandian Country: CN Temp: 46.4 Humidity: 17.0 Wind: 11.18 Cloud cover: 40.0 Lat: 39.4 Lng: 121.96
+Success.  Appending data.
+Request city: jales at 03/28/2019, 22:37:24
+Response at 03/28/2019, 22:37:24
+City: Jales Country: BR Temp: 76.37 Humidity: 63.0 Wind: 7.43 Cloud cover: 76.0 Lat: -20.27 Lng: -50.55
+Success.  Appending data.
+Request city: nanga eboko at 03/28/2019, 22:37:24
+Response at 03/28/2019, 22:37:26
+City: Nanga Eboko Country: CM Temp: 70.16 Humidity: 94.0 Wind: 3.62 Cloud cover: 12.0 Lat: 4.68 Lng: 12.37
+Success.  Appending data.
+Request city: tancanhuitz at 03/28/2019, 22:37:26
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: batticaloa at 03/28/2019, 22:37:28
+Response at 03/28/2019, 22:37:28
+City: Batticaloa Country: LK Temp: 89.69 Humidity: 75.0 Wind: 2.84 Cloud cover: 0.0 Lat: 7.71 Lng: 81.69
+Success.  Appending data.
+Request city: uvira at 03/28/2019, 22:37:28
+Response at 03/28/2019, 22:37:30
+City: Uvira Country: CD Temp: 64.4 Humidity: 88.0 Wind: 2.06 Cloud cover: 20.0 Lat: -3.41 Lng: 29.14
+Success.  Appending data.
+Request city: ntungamo at 03/28/2019, 22:37:30
+Response at 03/28/2019, 22:37:30
+City: Ntungamo Country: UG Temp: 68.0 Humidity: 89.0 Wind: 4.18 Cloud cover: 0.0 Lat: -0.87 Lng: 30.27
+Success.  Appending data.
+Beginning data collection batch 10:
+Request city: jaguaruna at 03/28/2019, 22:37:34
+Response at 03/28/2019, 22:37:35
+City: Jaguaruna Country: BR Temp: 67.1 Humidity: 100.0 Wind: 8.21 Cloud cover: 32.0 Lat: -28.62 Lng: -49.03
+Success.  Appending data.
+Request city: derzhavinsk at 03/28/2019, 22:37:35
+Response at 03/28/2019, 22:37:36
+City: Derzhavinsk Country: KZ Temp: 40.37 Humidity: 100.0 Wind: 18.5 Cloud cover: 88.0 Lat: 51.1 Lng: 66.31
+Success.  Appending data.
+Request city: tvoroyri at 03/28/2019, 22:37:36
+Response at 03/28/2019, 22:37:37
+City: Tvoroyri Country: FO Temp: 39.2 Humidity: 69.0 Wind: 18.34 Cloud cover: 56.0 Lat: 61.56 Lng: -6.81
+Success.  Appending data.
+Request city: wencheng at 03/28/2019, 22:37:37
+Response at 03/28/2019, 22:37:40
+City: Wencheng Country: CN Temp: 60.98 Humidity: 96.0 Wind: 2.73 Cloud cover: 92.0 Lat: 27.79 Lng: 120.09
+Success.  Appending data.
+Request city: maryborough at 03/28/2019, 22:37:40
+Response at 03/28/2019, 22:37:41
+City: Maryborough Country: AU Temp: 76.1 Humidity: 77.0 Wind: 4.18 Cloud cover: 88.0 Lat: -25.54 Lng: 152.7
+Success.  Appending data.
+Request city: port blair at 03/28/2019, 22:37:41
+Response at 03/28/2019, 22:37:42
+City: Port Blair Country: IN Temp: 84.2 Humidity: 100.0 Wind: 4.41 Cloud cover: 0.0 Lat: 11.67 Lng: 92.75
+Success.  Appending data.
+Request city: pleasanton at 03/28/2019, 22:37:42
+Response at 03/28/2019, 22:37:43
+City: Pleasanton Country: US Temp: 50.05 Humidity: 76.0 Wind: 4.7 Cloud cover: 40.0 Lat: 37.66 Lng: -121.87
+Success.  Appending data.
+Request city: buritis at 03/28/2019, 22:37:43
+Response at 03/28/2019, 22:37:46
+City: Buritis Country: BR Temp: 71.6 Humidity: 78.0 Wind: 8.21 Cloud cover: 80.0 Lat: -15.62 Lng: -46.42
+Success.  Appending data.
+Request city: semme at 03/28/2019, 22:37:46
+Response at 03/28/2019, 22:37:47
+City: Semme Country: FR Temp: 38.52 Humidity: 82.0 Wind: 5.82 Cloud cover: 0.0 Lat: 46.2 Lng: 1.5
+Success.  Appending data.
+Request city: mildura at 03/28/2019, 22:37:47
+Response at 03/28/2019, 22:37:47
+City: Mildura Country: AU Temp: 83.53 Humidity: 18.0 Wind: 13.87 Cloud cover: 0.0 Lat: -34.18 Lng: 142.16
+Success.  Appending data.
+Request city: javanrud at 03/28/2019, 22:37:47
+Response at 03/28/2019, 22:37:47
+City: Javanrud Country: IR Temp: 44.6 Humidity: 65.0 Wind: 9.17 Cloud cover: 40.0 Lat: 34.8 Lng: 46.49
+Success.  Appending data.
+Request city: northam at 03/28/2019, 22:37:47
+Response at 03/28/2019, 22:37:48
+City: Northam Country: GB Temp: 39.2 Humidity: 100.0 Wind: 2.24 Cloud cover: 0.0 Lat: 51.04 Lng: -4.21
+Success.  Appending data.
+Request city: marsabit at 03/28/2019, 22:37:48
+Response at 03/28/2019, 22:37:48
+City: Marsabit Country: KE Temp: 78.98 Humidity: 77.0 Wind: 3.85 Cloud cover: 0.0 Lat: 2.34 Lng: 37.99
+Success.  Appending data.
+Request city: tahoua at 03/28/2019, 22:37:48
+Response at 03/28/2019, 22:37:48
+City: Tahoua Country: NE Temp: 72.95 Humidity: 23.0 Wind: 12.57 Cloud cover: 0.0 Lat: 14.89 Lng: 5.26
+Success.  Appending data.
+Request city: vangaindrano at 03/28/2019, 22:37:48
+Response at 03/28/2019, 22:37:49
+City: Vangaindrano Country: MG Temp: 72.86 Humidity: 100.0 Wind: 3.18 Cloud cover: 100.0 Lat: -23.35 Lng: 47.6
+Success.  Appending data.
+Request city: visby at 03/28/2019, 22:37:49
+Response at 03/28/2019, 22:37:49
+City: Visby Country: SE Temp: 43.45 Humidity: 75.0 Wind: 19.46 Cloud cover: 0.0 Lat: 57.64 Lng: 18.3
+Success.  Appending data.
+Request city: assiniboia at 03/28/2019, 22:37:49
+Response at 03/28/2019, 22:37:50
+City: Assiniboia Country: CA Temp: 28.31 Humidity: 74.0 Wind: 5.64 Cloud cover: 0.0 Lat: 49.63 Lng: -105.99
+Success.  Appending data.
+Request city: eirunepe at 03/28/2019, 22:37:50
+Response at 03/28/2019, 22:37:50
+City: Eirunepe Country: BR Temp: 75.74 Humidity: 89.0 Wind: 2.62 Cloud cover: 20.0 Lat: -6.66 Lng: -69.87
+Success.  Appending data.
+Request city: lang son at 03/28/2019, 22:37:50
+Response at 03/28/2019, 22:37:51
+City: Lang Son Country: VN Temp: 80.33 Humidity: 73.0 Wind: 3.96 Cloud cover: 68.0 Lat: 21.83 Lng: 106.73
+Success.  Appending data.
+Request city: sembe at 03/28/2019, 22:37:51
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Beginning data collection batch 11:
+Request city: sabathu at 03/28/2019, 22:37:55
+Response at 03/28/2019, 22:37:56
+City: Sabathu Country: IN Temp: 77.0 Humidity: 38.0 Wind: 4.7 Cloud cover: 20.0 Lat: 31.01 Lng: 76.99
+Success.  Appending data.
+Request city: zyryanka at 03/28/2019, 22:37:56
+Response at 03/28/2019, 22:38:00
+City: Zyryanka Country: RU Temp: 16.88 Humidity: 55.0 Wind: 2.84 Cloud cover: 0.0 Lat: 65.73 Lng: 150.89
+Success.  Appending data.
+Request city: flin flon at 03/28/2019, 22:38:00
+Response at 03/28/2019, 22:38:01
+City: Flin Flon Country: CA Temp: 32.9 Humidity: 84.0 Wind: 11.01 Cloud cover: 64.0 Lat: 54.77 Lng: -101.88
+Success.  Appending data.
+Request city: asosa at 03/28/2019, 22:38:01
+Response at 03/28/2019, 22:38:01
+City: Asosa Country: ET Temp: 78.08 Humidity: 33.0 Wind: 3.96 Cloud cover: 0.0 Lat: 10.07 Lng: 34.53
+Success.  Appending data.
+Request city: monteagudo at 03/28/2019, 22:38:01
+Response at 03/28/2019, 22:38:01
+City: Monteagudo Country: BO Temp: 54.41 Humidity: 93.0 Wind: 1.83 Cloud cover: 76.0 Lat: -19.8 Lng: -63.96
+Success.  Appending data.
+Request city: betanzos at 03/28/2019, 22:38:01
+Response at 03/28/2019, 22:38:02
+City: Betanzos Country: ES Temp: 45.18 Humidity: 93.0 Wind: 3.36 Cloud cover: 0.0 Lat: 43.28 Lng: -8.21
+Success.  Appending data.
+Request city: rock springs at 03/28/2019, 22:38:02
+Response at 03/28/2019, 22:38:02
+City: Rock Springs Country: US Temp: 33.8 Humidity: 64.0 Wind: 6.93 Cloud cover: 1.0 Lat: 41.59 Lng: -109.2
+Success.  Appending data.
+Request city: sampit at 03/28/2019, 22:38:02
+Response at 03/28/2019, 22:38:03
+City: Sampit Country: ID Temp: 89.06 Humidity: 83.0 Wind: 4.52 Cloud cover: 64.0 Lat: -2.54 Lng: 112.95
+Success.  Appending data.
+Request city: queenstown at 03/28/2019, 22:38:03
+Response at 03/28/2019, 22:38:03
+City: Queenstown Country: NZ Temp: 56.84 Humidity: 75.0 Wind: 1.72 Cloud cover: 0.0 Lat: -45.03 Lng: 168.66
+Success.  Appending data.
+Request city: el wasta at 03/28/2019, 22:38:03
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: severobaykalsk at 03/28/2019, 22:38:04
+Response at 03/28/2019, 22:38:04
+City: Severobaykalsk Country: RU Temp: 24.53 Humidity: 67.0 Wind: 2.06 Cloud cover: 8.0 Lat: 55.65 Lng: 109.32
+Success.  Appending data.
+Request city: boa vista at 03/28/2019, 22:38:04
+Response at 03/28/2019, 22:38:05
+City: Boa Vista Country: BR Temp: 86.0 Humidity: 55.0 Wind: 11.41 Cloud cover: 0.0 Lat: 2.82 Lng: -60.67
+Success.  Appending data.
+Request city: hoima at 03/28/2019, 22:38:05
+Response at 03/28/2019, 22:38:06
+City: Hoima Country: UG Temp: 69.98 Humidity: 91.0 Wind: 4.18 Cloud cover: 20.0 Lat: 1.43 Lng: 31.35
+Success.  Appending data.
+Request city: jaca at 03/28/2019, 22:38:06
+Response at 03/28/2019, 22:38:07
+City: Jaca Country: ES Temp: 40.46 Humidity: 60.0 Wind: 4.7 Cloud cover: 0.0 Lat: 42.57 Lng: -0.55
+Success.  Appending data.
+Request city: fuente de oro at 03/28/2019, 22:38:07
+Response at 03/28/2019, 22:38:10
+City: Fuente de Oro Country: CO Temp: 69.53 Humidity: 89.0 Wind: 1.72 Cloud cover: 20.0 Lat: 3.46 Lng: -73.62
+Success.  Appending data.
+Beginning data collection batch 12:
+Request city: zyryanovsk at 03/28/2019, 22:38:14
+Response at 03/28/2019, 22:38:16
+City: Zyryanovsk Country: KZ Temp: 47.93 Humidity: 56.0 Wind: 2.84 Cloud cover: 24.0 Lat: 49.74 Lng: 84.27
+Success.  Appending data.
+Request city: kinanah at 03/28/2019, 22:38:16
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: jaguey grande at 03/28/2019, 22:38:21
+Response at 03/28/2019, 22:38:22
+City: Jaguey Grande Country: CU Temp: 71.6 Humidity: 73.0 Wind: 8.05 Cloud cover: 20.0 Lat: 22.53 Lng: -81.13
+Success.  Appending data.
+Request city: suileng at 03/28/2019, 22:38:22
+Response at 03/28/2019, 22:38:22
+City: Suileng Country: CN Temp: 37.85 Humidity: 33.0 Wind: 4.29 Cloud cover: 80.0 Lat: 47.25 Lng: 127.08
+Success.  Appending data.
+Request city: dandong at 03/28/2019, 22:38:22
+Response at 03/28/2019, 22:38:23
+City: Dandong Country: CN Temp: 51.08 Humidity: 26.0 Wind: 4.18 Cloud cover: 48.0 Lat: 40.12 Lng: 124.37
+Success.  Appending data.
+Request city: iqaluit at 03/28/2019, 22:38:23
+Response at 03/28/2019, 22:38:26
+City: Iqaluit Country: CA Temp: 19.18 Humidity: 85.0 Wind: 3.36 Cloud cover: 90.0 Lat: 63.75 Lng: -68.52
+Success.  Appending data.
+Request city: eyl at 03/28/2019, 22:38:26
+Response at 03/28/2019, 22:38:30
+City: Eyl Country: SO Temp: 80.87 Humidity: 91.0 Wind: 10.56 Cloud cover: 44.0 Lat: 7.98 Lng: 49.82
+Success.  Appending data.
+Request city: moskovskiy at 03/28/2019, 22:38:30
+Response at 03/28/2019, 22:38:32
+City: Moskovskiy Country: RU Temp: 32.65 Humidity: 93.0 Wind: 6.71 Cloud cover: 40.0 Lat: 55.6 Lng: 37.35
+Success.  Appending data.
+Request city: kaoma at 03/28/2019, 22:38:32
+Response at 03/28/2019, 22:38:33
+City: Kaoma Country: ZM Temp: 68.81 Humidity: 65.0 Wind: 9.1 Cloud cover: 0.0 Lat: -14.8 Lng: 24.8
+Success.  Appending data.
+Request city: sai buri at 03/28/2019, 22:38:33
+Response at 03/28/2019, 22:38:35
+City: Sai Buri Country: TH Temp: 87.8 Humidity: 74.0 Wind: 10.29 Cloud cover: 20.0 Lat: 6.7 Lng: 101.62
+Success.  Appending data.
+Request city: jeremoabo at 03/28/2019, 22:38:35
+Response at 03/28/2019, 22:38:36
+City: Jeremoabo Country: BR Temp: 70.61 Humidity: 95.0 Wind: 6.31 Cloud cover: 68.0 Lat: -10.08 Lng: -38.34
+Success.  Appending data.
+Request city: la tuque at 03/28/2019, 22:38:36
+Response at 03/28/2019, 22:38:37
+City: La Tuque Country: CA Temp: 35.96 Humidity: 100.0 Wind: 6.98 Cloud cover: 80.0 Lat: 47.44 Lng: -72.79
+Success.  Appending data.
+Request city: miri at 03/28/2019, 22:38:37
+Response at 03/28/2019, 22:38:40
+City: Miri Country: NG Temp: 66.83 Humidity: 46.0 Wind: 4.85 Cloud cover: 0.0 Lat: 10.31 Lng: 9.75
+Success.  Appending data.
+Request city: bangkal at 03/28/2019, 22:38:40
+Response at 03/28/2019, 22:38:41
+City: Bangkal Country: PH Temp: 86.0 Humidity: 58.0 Wind: 9.17 Cloud cover: 75.0 Lat: 7.07 Lng: 125.56
+Success.  Appending data.
+Request city: raiwala at 03/28/2019, 22:38:41
+Response at 03/28/2019, 22:38:41
+City: Raiwala Country: IN Temp: 78.8 Humidity: 54.0 Wind: 5.82 Cloud cover: 0.0 Lat: 30.02 Lng: 78.22
+Success.  Appending data.
+Request city: azangaro at 03/28/2019, 22:38:41
+Response at 03/28/2019, 22:38:42
+City: Azangaro Country: PE Temp: 33.08 Humidity: 88.0 Wind: 3.18 Cloud cover: 48.0 Lat: -14.91 Lng: -70.2
+Success.  Appending data.
+Request city: ambunti at 03/28/2019, 22:38:42
+Response at 03/28/2019, 22:38:42
+City: Ambunti Country: PG Temp: 83.12 Humidity: 100.0 Wind: 2.62 Cloud cover: 8.0 Lat: -4.22 Lng: 142.82
+Success.  Appending data.
+Request city: cedar city at 03/28/2019, 22:38:42
+Response at 03/28/2019, 22:38:42
+City: Cedar City Country: US Temp: 39.69 Humidity: 28.0 Wind: 10.29 Cloud cover: 75.0 Lat: 37.68 Lng: -113.06
+Success.  Appending data.
+Request city: braganca at 03/28/2019, 22:38:42
+Response at 03/28/2019, 22:38:45
+City: Braganca Country: BR Temp: 76.82 Humidity: 96.0 Wind: 3.06 Cloud cover: 92.0 Lat: -1.05 Lng: -46.77
+Success.  Appending data.
+Request city: monteagudo at 03/28/2019, 22:38:45
+Response at 03/28/2019, 22:38:45
+City: Monteagudo Country: BO Temp: 54.41 Humidity: 93.0 Wind: 1.83 Cloud cover: 76.0 Lat: -19.8 Lng: -63.96
+Success.  Appending data.
+Beginning data collection batch 13:
+Request city: kurilsk at 03/28/2019, 22:38:49
+Response at 03/28/2019, 22:38:50
+City: Kurilsk Country: RU Temp: 26.33 Humidity: 96.0 Wind: 24.76 Cloud cover: 80.0 Lat: 45.23 Lng: 147.88
+Success.  Appending data.
+Request city: alihe at 03/28/2019, 22:38:50
+Response at 03/28/2019, 22:38:50
+City: Alihe Country: CN Temp: 25.34 Humidity: 33.0 Wind: 4.41 Cloud cover: 56.0 Lat: 50.57 Lng: 123.73
+Success.  Appending data.
+Request city: oktyabrskiy at 03/28/2019, 22:38:50
+Response at 03/28/2019, 22:38:51
+City: Oktyabrskiy Country: RU Temp: 32.63 Humidity: 74.0 Wind: 4.47 Cloud cover: 75.0 Lat: 55.61 Lng: 37.97
+Success.  Appending data.
+Request city: verkhovazhye at 03/28/2019, 22:38:51
+Response at 03/28/2019, 22:38:52
+City: Verkhovazhye Country: RU Temp: 25.43 Humidity: 92.0 Wind: 12.01 Cloud cover: 56.0 Lat: 60.75 Lng: 42.05
+Success.  Appending data.
+Request city: nanga eboko at 03/28/2019, 22:38:52
+Response at 03/28/2019, 22:38:53
+City: Nanga Eboko Country: CM Temp: 70.16 Humidity: 94.0 Wind: 3.62 Cloud cover: 12.0 Lat: 4.68 Lng: 12.37
+Success.  Appending data.
+Request city: francisco sa at 03/28/2019, 22:38:53
+Response at 03/28/2019, 22:38:54
+City: Francisco Sa Country: BR Temp: 71.6 Humidity: 68.0 Wind: 10.0 Cloud cover: 0.0 Lat: -16.48 Lng: -43.49
+Success.  Appending data.
+Request city: gourcy at 03/28/2019, 22:38:54
+Response at 03/28/2019, 22:38:56
+City: Gourcy Country: BF Temp: 71.06 Humidity: 62.0 Wind: 3.18 Cloud cover: 0.0 Lat: 13.21 Lng: -2.36
+Success.  Appending data.
+Request city: primore at 03/28/2019, 22:38:56
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: barbacoas at 03/28/2019, 22:38:57
+Response at 03/28/2019, 22:38:58
+City: Barbacoas Country: CO Temp: 71.51 Humidity: 98.0 Wind: 2.73 Cloud cover: 68.0 Lat: 1.67 Lng: -78.14
+Success.  Appending data.
+Request city: bousso at 03/28/2019, 22:38:58
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: mazatlan at 03/28/2019, 22:38:58
+Response at 03/28/2019, 22:38:59
+City: Mazatlan Country: MX Temp: 68.86 Humidity: 72.0 Wind: 1.16 Cloud cover: 5.0 Lat: 23.22 Lng: -106.42
+Success.  Appending data.
+Request city: koygorodok at 03/28/2019, 22:38:59
+Response at 03/28/2019, 22:38:59
+City: Koygorodok Country: RU Temp: 34.34 Humidity: 83.0 Wind: 3.62 Cloud cover: 76.0 Lat: 60.44 Lng: 51.01
+Success.  Appending data.
+Request city: karkaralinsk at 03/28/2019, 22:38:59
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: hamilton at 03/28/2019, 22:38:59
+Response at 03/28/2019, 22:38:59
+City: Hamilton Country: BM Temp: 65.55 Humidity: 82.0 Wind: 17.22 Cloud cover: 90.0 Lat: 32.3 Lng: -64.78
+Success.  Appending data.
+Request city: cuamba at 03/28/2019, 22:38:59
+Response at 03/28/2019, 22:39:00
+City: Cuamba Country: MZ Temp: 71.42 Humidity: 75.0 Wind: 4.85 Cloud cover: 0.0 Lat: -14.8 Lng: 36.54
+Success.  Appending data.
+Request city: kuhestan at 03/28/2019, 22:39:00
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: jacareacanga at 03/28/2019, 22:39:00
+Response at 03/28/2019, 22:39:01
+City: Jacareacanga Country: BR Temp: 74.3 Humidity: 96.0 Wind: 2.28 Cloud cover: 56.0 Lat: -6.22 Lng: -57.76
+Success.  Appending data.
+Request city: zamora at 03/28/2019, 22:39:01
+Response at 03/28/2019, 22:39:02
+City: Zamora Country: ES Temp: 36.66 Humidity: 100.0 Wind: 2.24 Cloud cover: 0.0 Lat: 41.51 Lng: -5.74
+Success.  Appending data.
+Request city: bestobe at 03/28/2019, 22:39:02
+Response at 03/28/2019, 22:39:02
+City: Bestobe Country: KZ Temp: 35.42 Humidity: 96.0 Wind: 9.1 Cloud cover: 64.0 Lat: 52.5 Lng: 73.1
+Success.  Appending data.
+Request city: udankudi at 03/28/2019, 22:39:02
+Response at 03/28/2019, 22:39:03
+City: Udankudi Country: IN Temp: 91.4 Humidity: 43.0 Wind: 4.7 Cloud cover: 20.0 Lat: 8.43 Lng: 78.03
+Success.  Appending data.
+Beginning data collection batch 14:
+Request city: raga at 03/28/2019, 22:39:06
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: zavodouspenskoye at 03/28/2019, 22:39:11
+Response at 03/28/2019, 22:39:12
+City: Zavodouspenskoye Country: RU Temp: 32.0 Humidity: 97.0 Wind: 11.18 Cloud cover: 90.0 Lat: 56.86 Lng: 65.02
+Success.  Appending data.
+Request city: port elizabeth at 03/28/2019, 22:39:12
+Response at 03/28/2019, 22:39:13
+City: Port Elizabeth Country: US Temp: 47.79 Humidity: 61.0 Wind: 6.93 Cloud cover: 90.0 Lat: 39.31 Lng: -74.98
+Success.  Appending data.
+Request city: khobi at 03/28/2019, 22:39:13
+Response at 03/28/2019, 22:39:16
+City: Khobi Country: GE Temp: 41.0 Humidity: 93.0 Wind: 8.05 Cloud cover: 75.0 Lat: 42.32 Lng: 41.9
+Success.  Appending data.
+Request city: peremyshl at 03/28/2019, 22:39:16
+Response at 03/28/2019, 22:39:17
+City: Peremyshl Country: RU Temp: 32.0 Humidity: 90.0 Wind: 8.95 Cloud cover: 75.0 Lat: 54.26 Lng: 36.16
+Success.  Appending data.
+Request city: la plata at 03/28/2019, 22:39:17
+Response at 03/28/2019, 22:39:18
+City: La Plata Country: AR Temp: 67.05 Humidity: 82.0 Wind: 14.99 Cloud cover: 90.0 Lat: -34.92 Lng: -57.95
+Success.  Appending data.
+Request city: oistins at 03/28/2019, 22:39:18
+Response at 03/28/2019, 22:39:19
+City: Oistins Country: BB Temp: 78.8 Humidity: 74.0 Wind: 16.11 Cloud cover: 20.0 Lat: 13.07 Lng: -59.53
+Success.  Appending data.
+Request city: rabo de peixe at 03/28/2019, 22:39:19
+Response at 03/28/2019, 22:39:21
+City: Rabo de Peixe Country: PT Temp: 55.2 Humidity: 76.0 Wind: 6.93 Cloud cover: 40.0 Lat: 37.8 Lng: -25.58
+Success.  Appending data.
+Request city: kalmar at 03/28/2019, 22:39:21
+Response at 03/28/2019, 22:39:21
+City: Kalmar Country: SE Temp: 44.91 Humidity: 81.0 Wind: 11.41 Cloud cover: 0.0 Lat: 56.66 Lng: 16.36
+Success.  Appending data.
+Request city: frankfort at 03/28/2019, 22:39:21
+Response at 03/28/2019, 22:39:22
+City: Frankfort Country: US Temp: 60.49 Humidity: 42.0 Wind: 10.29 Cloud cover: 90.0 Lat: 38.2 Lng: -84.87
+Success.  Appending data.
+Request city: lumphat at 03/28/2019, 22:39:22
+Response at 03/28/2019, 22:39:23
+City: Lumphat Country: KH Temp: 91.76 Humidity: 54.0 Wind: 2.95 Cloud cover: 20.0 Lat: 13.5 Lng: 106.97
+Success.  Appending data.
+Request city: tripoli at 03/28/2019, 22:39:23
+Response at 03/28/2019, 22:39:25
+City: Tripoli Country: GR Temp: 49.28 Humidity: 34.0 Wind: 13.87 Cloud cover: 90.0 Lat: 37.51 Lng: 22.37
+Success.  Appending data.
+Request city: rio tercero at 03/28/2019, 22:39:25
+Response at 03/28/2019, 22:39:26
+City: Rio Tercero Country: AR Temp: 60.98 Humidity: 87.0 Wind: 7.09 Cloud cover: 80.0 Lat: -32.17 Lng: -64.11
+Success.  Appending data.
+Request city: belen at 03/28/2019, 22:39:26
+Response at 03/28/2019, 22:39:27
+City: Belen Country: TR Temp: 54.46 Humidity: 87.0 Wind: 5.82 Cloud cover: 75.0 Lat: 36.49 Lng: 36.19
+Success.  Appending data.
+Request city: pangody at 03/28/2019, 22:39:27
+Response at 03/28/2019, 22:39:28
+City: Pangody Country: RU Temp: 32.63 Humidity: 98.0 Wind: 13.02 Cloud cover: 68.0 Lat: 65.85 Lng: 74.49
+Success.  Appending data.
+Request city: izvestkovyy at 03/28/2019, 22:39:28
+Response at 03/28/2019, 22:39:28
+City: Izvestkovyy Country: RU Temp: 26.24 Humidity: 35.0 Wind: 3.51 Cloud cover: 56.0 Lat: 48.98 Lng: 131.55
+Success.  Appending data.
+Beginning data collection batch 15:
+Request city: stephenville at 03/28/2019, 22:39:32
+Response at 03/28/2019, 22:39:33
+City: Stephenville Country: US Temp: 64.94 Humidity: 72.0 Wind: 13.87 Cloud cover: 1.0 Lat: 32.22 Lng: -98.2
+Success.  Appending data.
+Request city: tasbuget at 03/28/2019, 22:39:33
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: rawson at 03/28/2019, 22:39:33
+Response at 03/28/2019, 22:39:34
+City: Rawson Country: AR Temp: 47.48 Humidity: 81.0 Wind: 2.84 Cloud cover: 0.0 Lat: -43.3 Lng: -65.11
+Success.  Appending data.
+Request city: port pirie at 03/28/2019, 22:39:34
+Response at 03/28/2019, 22:39:36
+City: Port Pirie Country: AU Temp: 71.6 Humidity: 49.0 Wind: 24.16 Cloud cover: 56.0 Lat: -33.18 Lng: 138.01
+Success.  Appending data.
+Request city: port keats at 03/28/2019, 22:39:36
+Response at 03/28/2019, 22:39:36
+City: Port Keats Country: AU Temp: 94.28 Humidity: 61.0 Wind: 4.18 Cloud cover: 0.0 Lat: -14.25 Lng: 129.55
+Success.  Appending data.
+Request city: sroda wielkopolska at 03/28/2019, 22:39:36
+Response at 03/28/2019, 22:39:41
+City: Sroda Wielkopolska Country: PL Temp: 45.86 Humidity: 81.0 Wind: 5.82 Cloud cover: 75.0 Lat: 52.23 Lng: 17.28
+Success.  Appending data.
+Request city: kadaya at 03/28/2019, 22:39:41
+Response at 03/28/2019, 22:39:41
+City: Kadaya Country: RU Temp: 25.88 Humidity: 22.0 Wind: 8.99 Cloud cover: 32.0 Lat: 50.93 Lng: 119.29
+Success.  Appending data.
+Request city: semey at 03/28/2019, 22:39:41
+Response at 03/28/2019, 22:39:42
+City: Semey Country: KZ Temp: 44.6 Humidity: 65.0 Wind: 8.95 Cloud cover: 0.0 Lat: 50.41 Lng: 80.25
+Success.  Appending data.
+Request city: yanan at 03/28/2019, 22:39:42
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: beyneu at 03/28/2019, 22:39:42
+Response at 03/28/2019, 22:39:42
+City: Beyneu Country: KZ Temp: 45.05 Humidity: 100.0 Wind: 4.97 Cloud cover: 44.0 Lat: 45.32 Lng: 55.19
+Success.  Appending data.
+Request city: pushkar at 03/28/2019, 22:39:42
+Response at 03/28/2019, 22:39:43
+City: Pushkar Country: IN Temp: 97.34 Humidity: 28.0 Wind: 6.08 Cloud cover: 20.0 Lat: 26.49 Lng: 74.56
+Success.  Appending data.
+Request city: panguna at 03/28/2019, 22:39:43
+Response at 03/28/2019, 22:39:43
+City: Panguna Country: PG Temp: 76.73 Humidity: 94.0 Wind: 3.74 Cloud cover: 92.0 Lat: -6.32 Lng: 155.48
+Success.  Appending data.
+Request city: villazon at 03/28/2019, 22:39:43
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: alto baudo at 03/28/2019, 22:39:45
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: norrtalje at 03/28/2019, 22:39:46
+Response at 03/28/2019, 22:39:46
+City: Norrtalje Country: SE Temp: 45.23 Humidity: 81.0 Wind: 23.04 Cloud cover: 0.0 Lat: 59.76 Lng: 18.7
+Success.  Appending data.
+Request city: bongandanga at 03/28/2019, 22:39:46
+Response at 03/28/2019, 22:39:47
+City: Bongandanga Country: CD Temp: 76.37 Humidity: 88.0 Wind: 2.95 Cloud cover: 24.0 Lat: 1.51 Lng: 21.07
+Success.  Appending data.
+Request city: falkenberg at 03/28/2019, 22:39:47
+Response at 03/28/2019, 22:39:47
+City: Falkenberg Country: DE Temp: 41.92 Humidity: 100.0 Wind: 2.73 Cloud cover: 90.0 Lat: 49.86 Lng: 12.22
+Success.  Appending data.
+Request city: kutum at 03/28/2019, 22:39:47
+Response at 03/28/2019, 22:39:49
+City: Kutum Country: SD Temp: 64.04 Humidity: 24.0 Wind: 4.41 Cloud cover: 0.0 Lat: 14.2 Lng: 24.66
+Success.  Appending data.
+Request city: grafton at 03/28/2019, 22:39:49
+Response at 03/28/2019, 22:39:49
+City: Grafton Country: AU Temp: 79.18 Humidity: 58.0 Wind: 8.05 Cloud cover: 40.0 Lat: -29.69 Lng: 152.93
+Success.  Appending data.
+Request city: kahului at 03/28/2019, 22:39:49
+Response at 03/28/2019, 22:39:50
+City: Kahului Country: US Temp: 70.86 Humidity: 65.0 Wind: 9.17 Cloud cover: 90.0 Lat: 20.89 Lng: -156.47
+Success.  Appending data.
+Beginning data collection batch 16:
+Request city: yenagoa at 03/28/2019, 22:39:54
+Response at 03/28/2019, 22:39:54
+City: Yenagoa Country: NG Temp: 78.71 Humidity: 89.0 Wind: 6.2 Cloud cover: 24.0 Lat: 4.92 Lng: 6.26
+Success.  Appending data.
+Request city: marabba at 03/28/2019, 22:39:54
+Response at 03/28/2019, 22:39:56
+City: Marabba Country: SD Temp: 78.08 Humidity: 16.0 Wind: 5.3 Cloud cover: 0.0 Lat: 12.35 Lng: 32.18
+Success.  Appending data.
+Request city: ylivieska at 03/28/2019, 22:39:56
+Response at 03/28/2019, 22:39:57
+City: Ylivieska Country: FI Temp: 43.18 Humidity: 61.0 Wind: 8.99 Cloud cover: 8.0 Lat: 64.07 Lng: 24.53
+Success.  Appending data.
+Request city: santiago del estero at 03/28/2019, 22:39:57
+Response at 03/28/2019, 22:39:59
+City: Santiago del Estero Country: AR Temp: 61.7 Humidity: 90.0 Wind: 0.6 Cloud cover: 0.0 Lat: -27.8 Lng: -64.26
+Success.  Appending data.
+Request city: mecca at 03/28/2019, 22:39:59
+Response at 03/28/2019, 22:40:00
+City: Mecca Country: SA Temp: 75.92 Humidity: 34.0 Wind: 4.07 Cloud cover: 8.0 Lat: 21.43 Lng: 39.83
+Success.  Appending data.
+Request city: pelagiada at 03/28/2019, 22:40:00
+Response at 03/28/2019, 22:40:01
+City: Pelagiada Country: RU Temp: 30.2 Humidity: 100.0 Wind: 4.47 Cloud cover: 75.0 Lat: 45.21 Lng: 42.02
+Success.  Appending data.
+Request city: baykit at 03/28/2019, 22:40:01
+Response at 03/28/2019, 22:40:01
+City: Baykit Country: RU Temp: 28.85 Humidity: 81.0 Wind: 6.31 Cloud cover: 8.0 Lat: 61.68 Lng: 96.39
+Success.  Appending data.
+Request city: fort saint john at 03/28/2019, 22:40:01
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: mustasaari at 03/28/2019, 22:40:02
+Response at 03/28/2019, 22:40:03
+City: Mustasaari Country: FI Temp: 40.68 Humidity: 67.0 Wind: 10.29 Cloud cover: 0.0 Lat: 63.17 Lng: 21.67
+Success.  Appending data.
+Request city: nador at 03/28/2019, 22:40:03
+Response at 03/28/2019, 22:40:04
+City: Nador Country: MA Temp: 52.56 Humidity: 77.0 Wind: 10.29 Cloud cover: 75.0 Lat: 35.17 Lng: -2.93
+Success.  Appending data.
+Request city: vuktyl at 03/28/2019, 22:40:04
+Response at 03/28/2019, 22:40:05
+City: Vuktyl Country: RU Temp: 35.33 Humidity: 77.0 Wind: 3.51 Cloud cover: 64.0 Lat: 63.86 Lng: 57.31
+Success.  Appending data.
+Request city: sasaram at 03/28/2019, 22:40:05
+Response at 03/28/2019, 22:40:06
+City: Sasaram Country: IN Temp: 89.96 Humidity: 61.0 Wind: 2.17 Cloud cover: 8.0 Lat: 24.95 Lng: 84.01
+Success.  Appending data.
+Request city: hurghada at 03/28/2019, 22:40:06
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: tarakan at 03/28/2019, 22:40:07
+Response at 03/28/2019, 22:40:07
+City: Tarakan Country: ID Temp: 84.83 Humidity: 85.0 Wind: 2.51 Cloud cover: 12.0 Lat: 3.3 Lng: 117.63
+Success.  Appending data.
+Request city: mukerian at 03/28/2019, 22:40:07
+Response at 03/28/2019, 22:40:07
+City: Mukerian Country: IN Temp: 89.78 Humidity: 31.0 Wind: 3.96 Cloud cover: 12.0 Lat: 31.95 Lng: 75.61
+Success.  Appending data.
+Request city: sakhon nakhon at 03/28/2019, 22:40:07
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: bintulu at 03/28/2019, 22:40:08
+Response at 03/28/2019, 22:40:11
+City: Bintulu Country: MY Temp: 86.0 Humidity: 74.0 Wind: 6.93 Cloud cover: 75.0 Lat: 3.17 Lng: 113.03
+Success.  Appending data.
+Request city: ijui at 03/28/2019, 22:40:11
+Response at 03/28/2019, 22:40:12
+City: Ijui Country: BR Temp: 68.99 Humidity: 71.0 Wind: 12.8 Cloud cover: 44.0 Lat: -28.39 Lng: -53.91
+Success.  Appending data.
+Request city: xinzhi at 03/28/2019, 22:40:12
+Response at 03/28/2019, 22:40:13
+City: Xinzhi Country: TW Temp: 81.81 Humidity: 61.0 Wind: 12.75 Cloud cover: 40.0 Lat: 22.54 Lng: 120.62
+Success.  Appending data.
+Request city: angleton at 03/28/2019, 22:40:13
+Response at 03/28/2019, 22:40:13
+City: Angleton Country: US Temp: 62.64 Humidity: 100.0 Wind: 3.36 Cloud cover: 1.0 Lat: 29.17 Lng: -95.43
+Success.  Appending data.
+Beginning data collection batch 17:
+Request city: north bend at 03/28/2019, 22:40:17
+Response at 03/28/2019, 22:40:20
+City: North Bend Country: US Temp: 48.22 Humidity: 87.0 Wind: 6.93 Cloud cover: 40.0 Lat: 43.41 Lng: -124.22
+Success.  Appending data.
+Request city: woodward at 03/28/2019, 22:40:20
+Response at 03/28/2019, 22:40:21
+City: Woodward Country: US Temp: 50.61 Humidity: 81.0 Wind: 10.29 Cloud cover: 90.0 Lat: 36.43 Lng: -99.39
+Success.  Appending data.
+Request city: santiago del estero at 03/28/2019, 22:40:21
+Response at 03/28/2019, 22:40:22
+City: Santiago del Estero Country: AR Temp: 61.7 Humidity: 90.0 Wind: 0.6 Cloud cover: 0.0 Lat: -27.8 Lng: -64.26
+Success.  Appending data.
+Request city: kreminna at 03/28/2019, 22:40:22
+Response at 03/28/2019, 22:40:22
+City: Kreminna Country: UA Temp: 34.43 Humidity: 77.0 Wind: 8.66 Cloud cover: 0.0 Lat: 49.05 Lng: 38.22
+Success.  Appending data.
+Request city: sambava at 03/28/2019, 22:40:22
+Response at 03/28/2019, 22:40:23
+City: Sambava Country: MG Temp: 81.5 Humidity: 100.0 Wind: 6.2 Cloud cover: 32.0 Lat: -14.27 Lng: 50.17
+Success.  Appending data.
+Request city: ridgetown at 03/28/2019, 22:40:23
+Response at 03/28/2019, 22:40:25
+City: Ridgetown Country: CA Temp: 42.31 Humidity: 87.0 Wind: 14.99 Cloud cover: 90.0 Lat: 42.44 Lng: -81.88
+Success.  Appending data.
+Request city: kampot at 03/28/2019, 22:40:25
+Response at 03/28/2019, 22:40:25
+City: Kampot Country: KH Temp: 90.48 Humidity: 55.0 Wind: 9.17 Cloud cover: 20.0 Lat: 10.62 Lng: 104.18
+Success.  Appending data.
+Request city: ambilobe at 03/28/2019, 22:40:25
+Response at 03/28/2019, 22:40:25
+City: Ambilobe Country: MG Temp: 80.06 Humidity: 99.0 Wind: 3.29 Cloud cover: 24.0 Lat: -13.19 Lng: 49.05
+Success.  Appending data.
+Request city: mwinilunga at 03/28/2019, 22:40:25
+Response at 03/28/2019, 22:40:26
+City: Mwinilunga Country: ZM Temp: 65.48 Humidity: 80.0 Wind: 5.19 Cloud cover: 0.0 Lat: -11.73 Lng: 24.43
+Success.  Appending data.
+Request city: nokaneng at 03/28/2019, 22:40:26
+Response at 03/28/2019, 22:40:26
+City: Nokaneng Country: BW Temp: 75.74 Humidity: 54.0 Wind: 4.74 Cloud cover: 8.0 Lat: -19.66 Lng: 22.19
+Success.  Appending data.
+Request city: aitape at 03/28/2019, 22:40:26
+Response at 03/28/2019, 22:40:27
+City: Aitape Country: PG Temp: 82.04 Humidity: 98.0 Wind: 9.55 Cloud cover: 12.0 Lat: -3.15 Lng: 142.36
+Success.  Appending data.
+Request city: el retorno at 03/28/2019, 22:40:27
+Response at 03/28/2019, 22:40:28
+City: El Retorno Country: CO Temp: 72.32 Humidity: 97.0 Wind: 2.39 Cloud cover: 76.0 Lat: 2.33 Lng: -72.63
+Success.  Appending data.
+Request city: montepuez at 03/28/2019, 22:40:28
+Response at 03/28/2019, 22:40:28
+City: Montepuez Country: MZ Temp: 73.85 Humidity: 87.0 Wind: 7.31 Cloud cover: 0.0 Lat: -13.13 Lng: 39.0
+Success.  Appending data.
+Request city: la plata at 03/28/2019, 22:40:28
+Response at 03/28/2019, 22:40:31
+City: La Plata Country: AR Temp: 67.05 Humidity: 82.0 Wind: 14.99 Cloud cover: 90.0 Lat: -34.92 Lng: -57.95
+Success.  Appending data.
+Request city: moa at 03/28/2019, 22:40:31
+Response at 03/28/2019, 22:40:32
+City: Moa Country: CU Temp: 61.7 Humidity: 96.0 Wind: 1.95 Cloud cover: 20.0 Lat: 20.66 Lng: -74.95
+Success.  Appending data.
+Request city: uaua at 03/28/2019, 22:40:32
+Response at 03/28/2019, 22:40:32
+City: Uaua Country: BR Temp: 70.25 Humidity: 83.0 Wind: 8.77 Cloud cover: 0.0 Lat: -9.84 Lng: -39.48
+Success.  Appending data.
+Request city: san fernando at 03/28/2019, 22:40:32
+Response at 03/28/2019, 22:40:33
+City: San Fernando Country: TT Temp: 76.24 Humidity: 94.0 Wind: 3.36 Cloud cover: 20.0 Lat: 10.28 Lng: -61.46
+Success.  Appending data.
+Request city: vlakhokerasea at 03/28/2019, 22:40:33
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: spassk-dalniy at 03/28/2019, 22:40:34
+Response at 03/28/2019, 22:40:34
+City: Spassk-Dalniy Country: RU Temp: 38.48 Humidity: 69.0 Wind: 2.84 Cloud cover: 24.0 Lat: 44.6 Lng: 132.82
+Success.  Appending data.
+Request city: parker at 03/28/2019, 22:40:34
+Response at 03/28/2019, 22:40:35
+City: Parker Country: US Temp: 39.33 Humidity: 100.0 Wind: 6.93 Cloud cover: 90.0 Lat: 39.52 Lng: -104.76
+Success.  Appending data.
+Beginning data collection batch 18:
+Request city: hobbs at 03/28/2019, 22:40:39
+Response at 03/28/2019, 22:40:42
+City: Hobbs Country: US Temp: 60.76 Humidity: 82.0 Wind: 14.99 Cloud cover: 1.0 Lat: 32.7 Lng: -103.14
+Success.  Appending data.
+Request city: novobirilyussy at 03/28/2019, 22:40:42
+Response at 03/28/2019, 22:40:42
+City: Novobirilyussy Country: RU Temp: 35.87 Humidity: 86.0 Wind: 3.96 Cloud cover: 0.0 Lat: 56.95 Lng: 90.69
+Success.  Appending data.
+Request city: mpanda at 03/28/2019, 22:40:42
+Response at 03/28/2019, 22:40:43
+City: Mpanda Country: TZ Temp: 66.56 Humidity: 98.0 Wind: 4.52 Cloud cover: 88.0 Lat: -6.34 Lng: 31.07
+Success.  Appending data.
+Request city: kamenskoye at 03/28/2019, 22:40:43
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: kaabong at 03/28/2019, 22:40:44
+Response at 03/28/2019, 22:40:45
+City: Kaabong Country: UG Temp: 74.75 Humidity: 63.0 Wind: 3.74 Cloud cover: 0.0 Lat: 3.51 Lng: 34.14
+Success.  Appending data.
+Request city: nkhotakota at 03/28/2019, 22:40:45
+Response at 03/28/2019, 22:40:46
+City: Nkhotakota Country: MW Temp: 75.38 Humidity: 84.0 Wind: 5.19 Cloud cover: 0.0 Lat: -12.93 Lng: 34.3
+Success.  Appending data.
+Request city: carlyle at 03/28/2019, 22:40:46
+Response at 03/28/2019, 22:40:46
+City: Carlyle Country: CA Temp: 28.4 Humidity: 79.0 Wind: 5.82 Cloud cover: 1.0 Lat: 49.63 Lng: -102.27
+Success.  Appending data.
+Request city: odienne at 03/28/2019, 22:40:46
+Response at 03/28/2019, 22:40:48
+City: Odienne Country: CI Temp: 70.97 Humidity: 87.0 Wind: 9.44 Cloud cover: 88.0 Lat: 9.51 Lng: -7.57
+Success.  Appending data.
+Request city: dalbandin at 03/28/2019, 22:40:48
+Response at 03/28/2019, 22:40:48
+City: Dalbandin Country: PK Temp: 71.69 Humidity: 68.0 Wind: 4.63 Cloud cover: 0.0 Lat: 28.9 Lng: 64.41
+Success.  Appending data.
+Request city: voyvozh at 03/28/2019, 22:40:48
+Response at 03/28/2019, 22:40:48
+City: Voyvozh Country: RU Temp: 33.35 Humidity: 93.0 Wind: 4.41 Cloud cover: 0.0 Lat: 62.89 Lng: 54.96
+Success.  Appending data.
+Request city: chingirlau at 03/28/2019, 22:40:48
+Response at 03/28/2019, 22:40:49
+City: Chingirlau Country: KZ Temp: 32.63 Humidity: 99.0 Wind: 10.67 Cloud cover: 64.0 Lat: 51.09 Lng: 54.08
+Success.  Appending data.
+Request city: bozuyuk at 03/28/2019, 22:40:49
+Response at 03/28/2019, 22:40:49
+City: Bozuyuk Country: TR Temp: 32.77 Humidity: 80.0 Wind: 2.24 Cloud cover: 0.0 Lat: 39.91 Lng: 30.04
+Success.  Appending data.
+Request city: clarence town at 03/28/2019, 22:40:49
+Response at 03/28/2019, 22:40:49
+City: Clarence Town Country: AU Temp: 80.04 Humidity: 54.0 Wind: 12.75 Cloud cover: 12.0 Lat: -32.59 Lng: 151.78
+Success.  Appending data.
+Request city: qinhuangdao at 03/28/2019, 22:40:49
+Response at 03/28/2019, 22:40:50
+City: Qinhuangdao Country: CN Temp: 42.08 Humidity: 57.0 Wind: 5.08 Cloud cover: 92.0 Lat: 39.94 Lng: 119.59
+Success.  Appending data.
+Request city: vilhena at 03/28/2019, 22:40:50
+Response at 03/28/2019, 22:40:50
+City: Vilhena Country: BR Temp: 69.98 Humidity: 96.0 Wind: 1.39 Cloud cover: 44.0 Lat: -12.74 Lng: -60.15
+Success.  Appending data.
+Request city: coro at 03/28/2019, 22:40:50
+Response at 03/28/2019, 22:40:51
+City: Coro Country: VE Temp: 73.76 Humidity: 93.0 Wind: 8.55 Cloud cover: 20.0 Lat: 11.41 Lng: -69.67
+Success.  Appending data.
+Request city: alice springs at 03/28/2019, 22:40:51
+Response at 03/28/2019, 22:40:51
+City: Alice Springs Country: AU Temp: 91.4 Humidity: 16.0 Wind: 16.11 Cloud cover: 0.0 Lat: -23.7 Lng: 133.88
+Success.  Appending data.
+Request city: sabancuy at 03/28/2019, 22:40:51
+Response at 03/28/2019, 22:40:51
+City: Sabancuy Country: MX Temp: 78.8 Humidity: 93.0 Wind: 13.58 Cloud cover: 0.0 Lat: 18.97 Lng: -91.18
+Success.  Appending data.
+Request city: harrisonville at 03/28/2019, 22:40:51
+Response at 03/28/2019, 22:40:51
+City: Harrisonville Country: US Temp: 53.67 Humidity: 100.0 Wind: 6.93 Cloud cover: 90.0 Lat: 38.65 Lng: -94.35
+Success.  Appending data.
+Beginning data collection batch 19:
+Request city: chaohu at 03/28/2019, 22:40:55
+Response at 03/28/2019, 22:40:55
+City: Chaohu Country: CN Temp: 66.2 Humidity: 59.0 Wind: 4.47 Cloud cover: 64.0 Lat: 31.63 Lng: 117.88
+Success.  Appending data.
+Request city: karakol at 03/28/2019, 22:40:55
+Response at 03/28/2019, 22:40:56
+City: Karakol Country: KG Temp: 39.56 Humidity: 92.0 Wind: 1.16 Cloud cover: 12.0 Lat: 42.49 Lng: 78.39
+Success.  Appending data.
+Request city: sidi ali at 03/28/2019, 22:40:56
+Response at 03/28/2019, 22:40:56
+City: Sidi Ali Country: DZ Temp: 40.82 Humidity: 89.0 Wind: 3.06 Cloud cover: 8.0 Lat: 36.1 Lng: 0.42
+Success.  Appending data.
+Request city: makubetsu at 03/28/2019, 22:40:56
+Response at 03/28/2019, 22:40:56
+City: Makubetsu Country: JP Temp: 37.4 Humidity: 40.0 Wind: 21.92 Cloud cover: 20.0 Lat: 42.84 Lng: 143.34
+Success.  Appending data.
+Request city: paragominas at 03/28/2019, 22:40:56
+Response at 03/28/2019, 22:40:57
+City: Paragominas Country: BR Temp: 74.48 Humidity: 99.0 Wind: 2.17 Cloud cover: 92.0 Lat: -3.0 Lng: -47.35
+Success.  Appending data.
+Request city: tibiri at 03/28/2019, 22:40:57
+Response at 03/28/2019, 22:40:57
+City: Tibiri Country: NE Temp: 73.13 Humidity: 22.0 Wind: 11.9 Cloud cover: 0.0 Lat: 13.59 Lng: 7.06
+Success.  Appending data.
+Request city: mityana at 03/28/2019, 22:40:57
+Response at 03/28/2019, 22:40:57
+City: Mityana Country: UG Temp: 71.6 Humidity: 88.0 Wind: 4.07 Cloud cover: 75.0 Lat: 0.4 Lng: 32.05
+Success.  Appending data.
+Request city: kitimat at 03/28/2019, 22:40:57
+Response at 03/28/2019, 22:40:58
+City: Kitimat Country: CA Temp: 41.43 Humidity: 48.0 Wind: 5.82 Cloud cover: 5.0 Lat: 54.02 Lng: -128.69
+Success.  Appending data.
+Request city: san ignacio at 03/28/2019, 22:40:58
+Response at 03/28/2019, 22:40:59
+City: San Ignacio Country: CL Temp: 53.6 Humidity: 93.0 Wind: 4.7 Cloud cover: 0.0 Lat: -36.8 Lng: -72.03
+Success.  Appending data.
+Request city: novopokrovka at 03/28/2019, 22:40:59
+Response at 03/28/2019, 22:40:59
+City: Novopokrovka Country: RU Temp: 35.06 Humidity: 37.0 Wind: 5.75 Cloud cover: 8.0 Lat: 45.85 Lng: 134.51
+Success.  Appending data.
+Request city: bejar at 03/28/2019, 22:40:59
+Response at 03/28/2019, 22:41:00
+City: Bejar Country: AL Temp: 42.44 Humidity: 100.0 Wind: 3.74 Cloud cover: 0.0 Lat: 40.49 Lng: 19.83
+Success.  Appending data.
+Request city: pesochnoye at 03/28/2019, 22:41:00
+Response at 03/28/2019, 22:41:00
+City: Pesochnoye Country: RU Temp: 29.21 Humidity: 94.0 Wind: 10.78 Cloud cover: 88.0 Lat: 58.01 Lng: 39.18
+Success.  Appending data.
+Request city: cortez at 03/28/2019, 22:41:00
+Response at 03/28/2019, 22:41:00
+City: Cortez Country: US Temp: 39.38 Humidity: 42.0 Wind: 4.7 Cloud cover: 1.0 Lat: 37.35 Lng: -108.58
+Success.  Appending data.
+Request city: paramonga at 03/28/2019, 22:41:00
+Response at 03/28/2019, 22:41:01
+City: Paramonga Country: PE Temp: 68.18 Humidity: 97.0 Wind: 7.2 Cloud cover: 68.0 Lat: -10.68 Lng: -77.82
+Success.  Appending data.
+Request city: cacoal at 03/28/2019, 22:41:01
+Response at 03/28/2019, 22:41:01
+City: Cacoal Country: BR Temp: 71.87 Humidity: 99.0 Wind: 2.51 Cloud cover: 92.0 Lat: -11.43 Lng: -61.44
+Success.  Appending data.
+Request city: manyoni at 03/28/2019, 22:41:01
+Response at 03/28/2019, 22:41:02
+City: Manyoni Country: TZ Temp: 74.84 Humidity: 69.0 Wind: 4.63 Cloud cover: 0.0 Lat: -5.75 Lng: 34.84
+Success.  Appending data.
+Request city: el tigre at 03/28/2019, 22:41:02
+Response at 03/28/2019, 22:41:02
+City: El Tigre Country: VE Temp: 75.92 Humidity: 78.0 Wind: 14.7 Cloud cover: 8.0 Lat: 8.89 Lng: -64.25
+Success.  Appending data.
+Request city: orahovac at 03/28/2019, 22:41:02
+Response at 03/28/2019, 22:41:02
+City: Orahovac Country: XK Temp: 35.08 Humidity: 47.0 Wind: 5.82 Cloud cover: 0.0 Lat: 42.4 Lng: 20.65
+Success.  Appending data.
+Request city: zvishavane at 03/28/2019, 22:41:02
+Response at 03/28/2019, 22:41:03
+City: Zvishavane Country: ZW Temp: 70.7 Humidity: 62.0 Wind: 4.18 Cloud cover: 0.0 Lat: -20.32 Lng: 30.05
+Success.  Appending data.
+Request city: kayankulam at 03/28/2019, 22:41:03
+Response at 03/28/2019, 22:41:03
+City: Kayankulam Country: IN Temp: 86.99 Humidity: 98.0 Wind: 13.13 Cloud cover: 0.0 Lat: 9.18 Lng: 76.5
+Success.  Appending data.
+Beginning data collection batch 20:
+Request city: serramanna at 03/28/2019, 22:41:07
+Response at 03/28/2019, 22:41:08
+City: Serramanna Country: IT Temp: 40.05 Humidity: 93.0 Wind: 5.82 Cloud cover: 0.0 Lat: 39.42 Lng: 8.92
+Success.  Appending data.
+Request city: stromness at 03/28/2019, 22:41:08
+Response at 03/28/2019, 22:41:10
+City: Stromness Country: CA Temp: 46.71 Humidity: 70.0 Wind: 11.41 Cloud cover: 90.0 Lat: 42.87 Lng: -79.55
+Success.  Appending data.
+Request city: spilimbergo at 03/28/2019, 22:41:10
+Response at 03/28/2019, 22:41:11
+City: Spilimbergo Country: IT Temp: 42.53 Humidity: 75.0 Wind: 6.93 Cloud cover: 20.0 Lat: 46.11 Lng: 12.9
+Success.  Appending data.
+Request city: ormond beach at 03/28/2019, 22:41:11
+Response at 03/28/2019, 22:41:11
+City: Ormond Beach Country: US Temp: 60.46 Humidity: 93.0 Wind: 6.93 Cloud cover: 20.0 Lat: 29.29 Lng: -81.06
+Success.  Appending data.
+Request city: bouca at 03/28/2019, 22:41:11
+Response at 03/28/2019, 22:41:11
+City: Bouca Country: CF Temp: 75.92 Humidity: 72.0 Wind: 4.97 Cloud cover: 36.0 Lat: 6.51 Lng: 18.28
+Success.  Appending data.
+Request city: ponta do sol at 03/28/2019, 22:41:11
+Response at 03/28/2019, 22:41:12
+City: Ponta do Sol Country: BR Temp: 67.46 Humidity: 75.0 Wind: 9.66 Cloud cover: 8.0 Lat: -20.63 Lng: -46.0
+Success.  Appending data.
+Request city: rolim de moura at 03/28/2019, 22:41:12
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: wagar at 03/28/2019, 22:41:12
+Response at 03/28/2019, 22:41:13
+City: Wagar Country: US Temp: 53.29 Humidity: 81.0 Wind: 3.74 Cloud cover: 24.0 Lat: 31.44 Lng: -87.99
+Success.  Appending data.
+Request city: zyryanka at 03/28/2019, 22:41:13
+Response at 03/28/2019, 22:41:14
+City: Zyryanka Country: RU Temp: 16.88 Humidity: 55.0 Wind: 2.84 Cloud cover: 0.0 Lat: 65.73 Lng: 150.89
+Success.  Appending data.
+Request city: miranorte at 03/28/2019, 22:41:14
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: garissa at 03/28/2019, 22:41:16
+Response at 03/28/2019, 22:41:16
+City: Garissa Country: KE Temp: 81.23 Humidity: 76.0 Wind: 4.63 Cloud cover: 24.0 Lat: -0.46 Lng: 39.64
+Success.  Appending data.
+Request city: caracuaro at 03/28/2019, 22:41:16
+Response at 03/28/2019, 22:41:17
+City: Caracuaro Country: MX Temp: 52.88 Humidity: 73.0 Wind: 1.61 Cloud cover: 0.0 Lat: 19.01 Lng: -101.13
+Success.  Appending data.
+Request city: polis at 03/28/2019, 22:41:17
+Response at 03/28/2019, 22:41:17
+City: Polis Country: CY Temp: 53.67 Humidity: 87.0 Wind: 8.05 Cloud cover: 75.0 Lat: 35.04 Lng: 32.42
+Success.  Appending data.
+Request city: wajir at 03/28/2019, 22:41:17
+Response at 03/28/2019, 22:41:19
+City: Wajir Country: KE Temp: 82.4 Humidity: 65.0 Wind: 9.17 Cloud cover: 0.0 Lat: 1.75 Lng: 40.07
+Success.  Appending data.
+Request city: ancud at 03/28/2019, 22:41:19
+Response at 03/28/2019, 22:41:20
+City: Ancud Country: CL Temp: 48.2 Humidity: 93.0 Wind: 2.24 Cloud cover: 90.0 Lat: -41.87 Lng: -73.83
+Success.  Appending data.
+Request city: jining at 03/28/2019, 22:41:20
+Response at 03/28/2019, 22:41:20
+City: Jining Country: CN Temp: 57.0 Humidity: 46.0 Wind: 9.78 Cloud cover: 64.0 Lat: 35.41 Lng: 116.58
+Success.  Appending data.
+Request city: hermanus at 03/28/2019, 22:41:20
+Response at 03/28/2019, 22:41:21
+City: Hermanus Country: ZA Temp: 62.33 Humidity: 97.0 Wind: 2.62 Cloud cover: 32.0 Lat: -34.42 Lng: 19.24
+Success.  Appending data.
+Request city: velikiy ustyug at 03/28/2019, 22:41:21
+Response at 03/28/2019, 22:41:22
+City: Velikiy Ustyug Country: RU Temp: 25.7 Humidity: 78.0 Wind: 5.3 Cloud cover: 0.0 Lat: 60.76 Lng: 46.3
+Success.  Appending data.
+Request city: puerto baquerizo moreno at 03/28/2019, 22:41:22
+Response at 03/28/2019, 22:41:22
+City: Puerto Baquerizo Moreno Country: EC Temp: 79.88 Humidity: 96.0 Wind: 8.43 Cloud cover: 8.0 Lat: -0.9 Lng: -89.6
+Success.  Appending data.
+Request city: higuey at 03/28/2019, 22:41:22
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Beginning data collection batch 21:
+Request city: kuzhener at 03/28/2019, 22:41:27
+Response at 03/28/2019, 22:41:27
+City: Kuzhener Country: RU Temp: 32.0 Humidity: 98.0 Wind: 11.68 Cloud cover: 80.0 Lat: 56.81 Lng: 48.92
+Success.  Appending data.
+Request city: drumheller at 03/28/2019, 22:41:27
+Response at 03/28/2019, 22:41:28
+City: Drumheller Country: CA Temp: 34.12 Humidity: 83.0 Wind: 1.99 Cloud cover: 0.0 Lat: 51.47 Lng: -112.7
+Success.  Appending data.
+Request city: papasquiaro at 03/28/2019, 22:41:28
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: katwijk at 03/28/2019, 22:41:29
+Response at 03/28/2019, 22:41:31
+City: Katwijk Country: NL Temp: 37.31 Humidity: 100.0 Wind: 1.12 Cloud cover: 0.0 Lat: 52.2 Lng: 4.41
+Success.  Appending data.
+Request city: wabash at 03/28/2019, 22:41:31
+Response at 03/28/2019, 22:41:32
+City: Wabash Country: US Temp: 53.01 Humidity: 100.0 Wind: 12.75 Cloud cover: 90.0 Lat: 40.8 Lng: -85.82
+Success.  Appending data.
+Request city: umm durman at 03/28/2019, 22:41:32
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: madarounfa at 03/28/2019, 22:41:32
+Response at 03/28/2019, 22:41:33
+City: Madarounfa Country: NE Temp: 69.98 Humidity: 25.0 Wind: 10.11 Cloud cover: 0.0 Lat: 13.3 Lng: 7.16
+Success.  Appending data.
+Request city: maneadero at 03/28/2019, 22:41:33
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: dera din panah at 03/28/2019, 22:41:35
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: abu dhabi at 03/28/2019, 22:41:36
+Response at 03/28/2019, 22:41:37
+City: Abu Dhabi Country: AE Temp: 72.46 Humidity: 83.0 Wind: 9.17 Cloud cover: 0.0 Lat: 24.47 Lng: 54.37
+Success.  Appending data.
+Request city: turayf at 03/28/2019, 22:41:37
+Response at 03/28/2019, 22:41:40
+City: Turayf Country: SA Temp: 51.8 Humidity: 66.0 Wind: 4.41 Cloud cover: 90.0 Lat: 31.68 Lng: 38.65
+Success.  Appending data.
+Request city: amarpur at 03/28/2019, 22:41:40
+Response at 03/28/2019, 22:41:41
+City: Amarpur Country: IN Temp: 89.6 Humidity: 49.0 Wind: 3.29 Cloud cover: 0.0 Lat: 23.52 Lng: 91.65
+Success.  Appending data.
+Request city: yuancheng at 03/28/2019, 22:41:41
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: turka at 03/28/2019, 22:41:42
+Response at 03/28/2019, 22:41:43
+City: Turka Country: UA Temp: 34.0 Humidity: 83.0 Wind: 4.07 Cloud cover: 68.0 Lat: 49.16 Lng: 23.03
+Success.  Appending data.
+Request city: nguiu at 03/28/2019, 22:41:43
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: shache at 03/28/2019, 22:41:44
+Response at 03/28/2019, 22:41:45
+City: Shache Country: CN Temp: 65.75 Humidity: 31.0 Wind: 5.75 Cloud cover: 32.0 Lat: 38.42 Lng: 77.24
+Success.  Appending data.
+Request city: bogolyubovo at 03/28/2019, 22:41:45
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: gariaband at 03/28/2019, 22:41:46
+Response at 03/28/2019, 22:41:48
+City: Gariaband Country: IN Temp: 96.98 Humidity: 23.0 Wind: 4.52 Cloud cover: 0.0 Lat: 20.63 Lng: 82.06
+Success.  Appending data.
+Request city: aginskoye at 03/28/2019, 22:41:48
+Response at 03/28/2019, 22:41:50
+City: Aginskoye Country: RU Temp: 33.01 Humidity: 78.0 Wind: 1.99 Cloud cover: 64.0 Lat: 51.11 Lng: 114.54
+Success.  Appending data.
+Request city: chalus at 03/28/2019, 22:41:50
+Response at 03/28/2019, 22:41:51
+City: Chalus Country: IR Temp: 53.6 Humidity: 87.0 Wind: 6.93 Cloud cover: 90.0 Lat: 36.66 Lng: 51.42
+Success.  Appending data.
+Beginning data collection batch 22:
+Request city: constitucion at 03/28/2019, 22:41:55
+Response at 03/28/2019, 22:41:57
+City: Constitucion Country: MX Temp: 54.5 Humidity: 29.0 Wind: 7.2 Cloud cover: 0.0 Lat: 23.99 Lng: -104.67
+Success.  Appending data.
+Request city: oak forest at 03/28/2019, 22:41:57
+Response at 03/28/2019, 22:41:59
+City: Oak Forest Country: US Temp: 45.01 Humidity: 75.0 Wind: 10.67 Cloud cover: 90.0 Lat: 41.6 Lng: -87.74
+Success.  Appending data.
+Request city: sergeyevka at 03/28/2019, 22:41:59
+Response at 03/28/2019, 22:42:01
+City: Sergeyevka Country: KZ Temp: 38.48 Humidity: 100.0 Wind: 4.97 Cloud cover: 92.0 Lat: 53.88 Lng: 67.42
+Success.  Appending data.
+Request city: vanino at 03/28/2019, 22:42:01
+Response at 03/28/2019, 22:42:02
+City: Vanino Country: RU Temp: 32.0 Humidity: 61.0 Wind: 1.99 Cloud cover: 20.0 Lat: 53.93 Lng: 40.55
+Success.  Appending data.
+Request city: berlevag at 03/28/2019, 22:42:02
+Response at 03/28/2019, 22:42:03
+City: Berlevag Country: NO Temp: 33.8 Humidity: 74.0 Wind: 18.34 Cloud cover: 20.0 Lat: 70.86 Lng: 29.09
+Success.  Appending data.
+Request city: kuala terengganu at 03/28/2019, 22:42:03
+Response at 03/28/2019, 22:42:04
+City: Kuala Terengganu Country: MY Temp: 87.8 Humidity: 74.0 Wind: 3.36 Cloud cover: 75.0 Lat: 5.33 Lng: 103.14
+Success.  Appending data.
+Request city: birnin kebbi at 03/28/2019, 22:42:04
+Response at 03/28/2019, 22:42:04
+City: Birnin Kebbi Country: NG Temp: 76.82 Humidity: 19.0 Wind: 13.69 Cloud cover: 0.0 Lat: 12.45 Lng: 4.2
+Success.  Appending data.
+Request city: yanan at 03/28/2019, 22:42:04
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: choix at 03/28/2019, 22:42:06
+Response at 03/28/2019, 22:42:07
+City: Choix Country: MX Temp: 55.58 Humidity: 71.0 Wind: 1.39 Cloud cover: 0.0 Lat: 26.71 Lng: -108.33
+Success.  Appending data.
+Request city: yuzhno-yeniseyskiy at 03/28/2019, 22:42:07
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: turhal at 03/28/2019, 22:42:10
+Response at 03/28/2019, 22:42:11
+City: Turhal Country: TR Temp: 35.82 Humidity: 64.0 Wind: 19.46 Cloud cover: 75.0 Lat: 40.38 Lng: 36.08
+Success.  Appending data.
+Request city: margherita at 03/28/2019, 22:42:11
+Response at 03/28/2019, 22:42:12
+City: Margherita Country: IN Temp: 84.2 Humidity: 45.0 Wind: 5.82 Cloud cover: 20.0 Lat: 27.29 Lng: 95.67
+Success.  Appending data.
+Request city: clyde river at 03/28/2019, 22:42:12
+Response at 03/28/2019, 22:42:13
+City: Clyde River Country: CA Temp: -7.61 Humidity: 83.0 Wind: 11.41 Cloud cover: 90.0 Lat: 70.47 Lng: -68.59
+Success.  Appending data.
+Request city: sofiysk at 03/28/2019, 22:42:13
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: pucallpa at 03/28/2019, 22:42:15
+Response at 03/28/2019, 22:42:16
+City: Pucallpa Country: PE Temp: 73.4 Humidity: 100.0 Wind: 3.36 Cloud cover: 75.0 Lat: -8.38 Lng: -74.54
+Success.  Appending data.
+Request city: sarapul at 03/28/2019, 22:42:16
+Response at 03/28/2019, 22:42:18
+City: Sarapul Country: RU Temp: 36.0 Humidity: 73.0 Wind: 1.99 Cloud cover: 32.0 Lat: 56.48 Lng: 53.82
+Success.  Appending data.
+Request city: edea at 03/28/2019, 22:42:18
+Response at 03/28/2019, 22:42:21
+City: Edea Country: CM Temp: 75.2 Humidity: 100.0 Wind: 5.08 Cloud cover: 40.0 Lat: 3.8 Lng: 10.13
+Success.  Appending data.
+Request city: aberdeen at 03/28/2019, 22:42:21
+Response at 03/28/2019, 22:42:22
+City: Aberdeen Country: US Temp: 28.9 Humidity: 86.0 Wind: 4.07 Cloud cover: 1.0 Lat: 45.47 Lng: -98.49
+Success.  Appending data.
+Request city: eldorado at 03/28/2019, 22:42:22
+Response at 03/28/2019, 22:42:22
+City: Eldorado Country: MX Temp: 63.05 Humidity: 68.0 Wind: 2.73 Cloud cover: 5.0 Lat: 24.32 Lng: -107.36
+Success.  Appending data.
+Request city: manicore at 03/28/2019, 22:42:22
+Response at 03/28/2019, 22:42:23
+City: Manicore Country: BR Temp: 76.91 Humidity: 94.0 Wind: 2.06 Cloud cover: 88.0 Lat: -5.81 Lng: -61.3
+Success.  Appending data.
+Beginning data collection batch 23:
+Request city: outlook at 03/28/2019, 22:42:27
+Response at 03/28/2019, 22:42:27
+City: Outlook Country: CA Temp: 30.0 Humidity: 100.0 Wind: 8.21 Cloud cover: 8.0 Lat: 51.48 Lng: -107.04
+Success.  Appending data.
+Request city: nioro at 03/28/2019, 22:42:27
+Response at 03/28/2019, 22:42:28
+City: Nioro Country: GM Temp: 75.02 Humidity: 42.0 Wind: 13.13 Cloud cover: 88.0 Lat: 13.79 Lng: -15.05
+Success.  Appending data.
+Request city: shwebo at 03/28/2019, 22:42:28
+Response at 03/28/2019, 22:42:29
+City: Shwebo Country: MM Temp: 88.52 Humidity: 64.0 Wind: 5.53 Cloud cover: 0.0 Lat: 22.57 Lng: 95.7
+Success.  Appending data.
+Request city: sitges at 03/28/2019, 22:42:29
+Response at 03/28/2019, 22:42:29
+City: Sitges Country: ES Temp: 45.34 Humidity: 70.0 Wind: 13.87 Cloud cover: 0.0 Lat: 41.24 Lng: 1.82
+Success.  Appending data.
+Request city: lewistown at 03/28/2019, 22:42:29
+Response at 03/28/2019, 22:42:30
+City: Lewistown Country: US Temp: 54.27 Humidity: 100.0 Wind: 3.36 Cloud cover: 90.0 Lat: 40.39 Lng: -90.15
+Success.  Appending data.
+Request city: otane at 03/28/2019, 22:42:30
+Response at 03/28/2019, 22:42:30
+City: Otane Country: NZ Temp: 60.01 Humidity: 82.0 Wind: 1.99 Cloud cover: 88.0 Lat: -39.89 Lng: 176.62
+Success.  Appending data.
+Request city: maha sarakham at 03/28/2019, 22:42:30
+Response at 03/28/2019, 22:42:31
+City: Maha Sarakham Country: TH Temp: 94.19 Humidity: 49.0 Wind: 9.17 Cloud cover: 24.0 Lat: 16.19 Lng: 103.3
+Success.  Appending data.
+Request city: calvinia at 03/28/2019, 22:42:31
+Response at 03/28/2019, 22:42:31
+City: Calvinia Country: ZA Temp: 51.17 Humidity: 66.0 Wind: 3.18 Cloud cover: 0.0 Lat: -31.47 Lng: 19.78
+Success.  Appending data.
+Request city: coihueco at 03/28/2019, 22:42:31
+Response at 03/28/2019, 22:42:33
+City: Coihueco Country: CL Temp: 53.6 Humidity: 93.0 Wind: 4.7 Cloud cover: 0.0 Lat: -36.63 Lng: -71.83
+Success.  Appending data.
+Request city: geresk at 03/28/2019, 22:42:33
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: laem sing at 03/28/2019, 22:42:34
+Response at 03/28/2019, 22:42:34
+City: Laem Sing Country: TH Temp: 93.25 Humidity: 70.0 Wind: 5.82 Cloud cover: 40.0 Lat: 12.48 Lng: 102.07
+Success.  Appending data.
+Request city: feijo at 03/28/2019, 22:42:34
+Response at 03/28/2019, 22:42:35
+City: Feijo Country: EC Temp: 66.56 Humidity: 95.0 Wind: 0.72 Cloud cover: 92.0 Lat: -3.63 Lng: -79.92
+Success.  Appending data.
+Request city: satun at 03/28/2019, 22:42:35
+Response at 03/28/2019, 22:42:35
+City: Satun Country: TH Temp: 93.81 Humidity: 70.0 Wind: 9.17 Cloud cover: 75.0 Lat: 6.62 Lng: 100.07
+Success.  Appending data.
+Request city: juelsminde at 03/28/2019, 22:42:35
+Response at 03/28/2019, 22:42:36
+City: Juelsminde Country: DK Temp: 42.89 Humidity: 93.0 Wind: 10.29 Cloud cover: 0.0 Lat: 55.71 Lng: 10.02
+Success.  Appending data.
+Request city: barentsburg at 03/28/2019, 22:42:36
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: trujillo at 03/28/2019, 22:42:36
+Response at 03/28/2019, 22:42:38
+City: Trujillo Country: PE Temp: 69.8 Humidity: 83.0 Wind: 8.05 Cloud cover: 75.0 Lat: -8.11 Lng: -79.03
+Success.  Appending data.
+Request city: shubarshi at 03/28/2019, 22:42:38
+Response at 03/28/2019, 22:42:38
+City: Shubarshi Country: KZ Temp: 44.42 Humidity: 87.0 Wind: 12.01 Cloud cover: 0.0 Lat: 48.59 Lng: 57.19
+Success.  Appending data.
+Request city: usoke at 03/28/2019, 22:42:38
+Response at 03/28/2019, 22:42:38
+City: Usoke Country: TZ Temp: 67.28 Humidity: 95.0 Wind: 4.18 Cloud cover: 68.0 Lat: -5.09 Lng: 32.32
+Success.  Appending data.
+Request city: stanger at 03/28/2019, 22:42:38
+Response at 03/28/2019, 22:42:39
+City: Stanger Country: ZA Temp: 68.95 Humidity: 82.0 Wind: 1.12 Cloud cover: 0.0 Lat: -29.34 Lng: 31.29
+Success.  Appending data.
+Request city: zhanakorgan at 03/28/2019, 22:42:39
+Response at 03/28/2019, 22:42:39
+City: Zhanakorgan Country: KZ Temp: 52.61 Humidity: 85.0 Wind: 7.31 Cloud cover: 76.0 Lat: 43.91 Lng: 67.25
+Success.  Appending data.
+Beginning data collection batch 24:
+Request city: alakurtti at 03/28/2019, 22:42:43
+Response at 03/28/2019, 22:42:45
+City: Alakurtti Country: RU Temp: 39.99 Humidity: 80.0 Wind: 8.01 Cloud cover: 92.0 Lat: 66.96 Lng: 30.34
+Success.  Appending data.
+Request city: ocampo at 03/28/2019, 22:42:45
+Response at 03/28/2019, 22:42:46
+City: Ocampo Country: PH Temp: 85.1 Humidity: 69.0 Wind: 6.53 Cloud cover: 8.0 Lat: 13.56 Lng: 123.37
+Success.  Appending data.
+Request city: kavaratti at 03/28/2019, 22:42:46
+Response at 03/28/2019, 22:42:50
+City: Kavaratti Country: IN Temp: 83.21 Humidity: 100.0 Wind: 9.78 Cloud cover: 24.0 Lat: 10.57 Lng: 72.64
+Success.  Appending data.
+Request city: bad iburg at 03/28/2019, 22:42:50
+Response at 03/28/2019, 22:42:50
+City: Bad Iburg Country: DE Temp: 37.69 Humidity: 100.0 Wind: 1.12 Cloud cover: 0.0 Lat: 52.16 Lng: 8.05
+Success.  Appending data.
+Request city: gulariya at 03/28/2019, 22:42:50
+Response at 03/28/2019, 22:42:52
+City: Gulariya Country: IN Temp: 91.31 Humidity: 29.0 Wind: 3.74 Cloud cover: 0.0 Lat: 28.2 Lng: 81.35
+Success.  Appending data.
+Request city: victor harbor at 03/28/2019, 22:42:52
+Response at 03/28/2019, 22:42:54
+City: Victor Harbor Country: AU Temp: 59.05 Humidity: 55.0 Wind: 23.04 Cloud cover: 75.0 Lat: -35.55 Lng: 138.62
+Success.  Appending data.
+Request city: kipushi at 03/28/2019, 22:42:54
+Response at 03/28/2019, 22:42:56
+City: Kipushi Country: CD Temp: 65.48 Humidity: 84.0 Wind: 8.66 Cloud cover: 8.0 Lat: -11.76 Lng: 27.24
+Success.  Appending data.
+Request city: manjo at 03/28/2019, 22:42:56
+Response at 03/28/2019, 22:43:00
+City: Manjo Country: CM Temp: 71.51 Humidity: 94.0 Wind: 2.39 Cloud cover: 48.0 Lat: 4.85 Lng: 9.82
+Success.  Appending data.
+Request city: bhag at 03/28/2019, 22:43:00
+Response at 03/28/2019, 22:43:01
+City: Bhag Country: PK Temp: 88.16 Humidity: 55.0 Wind: 3.96 Cloud cover: 0.0 Lat: 29.04 Lng: 67.82
+Success.  Appending data.
+Request city: tukuran at 03/28/2019, 22:43:01
+Response at 03/28/2019, 22:43:02
+City: Tukuran Country: PH Temp: 84.29 Humidity: 72.0 Wind: 2.62 Cloud cover: 12.0 Lat: 7.86 Lng: 123.58
+Success.  Appending data.
+Request city: hamada at 03/28/2019, 22:43:02
+Response at 03/28/2019, 22:43:03
+City: Hamada Country: JP Temp: 59.0 Humidity: 67.0 Wind: 5.82 Cloud cover: 75.0 Lat: 34.9 Lng: 132.08
+Success.  Appending data.
+Request city: tazovskiy at 03/28/2019, 22:43:03
+Response at 03/28/2019, 22:43:03
+City: Tazovskiy Country: RU Temp: 32.54 Humidity: 98.0 Wind: 13.8 Cloud cover: 88.0 Lat: 67.47 Lng: 78.7
+Success.  Appending data.
+Request city: diplo at 03/28/2019, 22:43:03
+Response at 03/28/2019, 22:43:03
+City: Diplo Country: PK Temp: 92.12 Humidity: 38.0 Wind: 5.86 Cloud cover: 12.0 Lat: 24.47 Lng: 69.59
+Success.  Appending data.
+Request city: kegayli at 03/28/2019, 22:43:03
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: pedernales at 03/28/2019, 22:43:04
+Response at 03/28/2019, 22:43:04
+City: Pedernales Country: EC Temp: 71.6 Humidity: 98.0 Wind: 3.85 Cloud cover: 100.0 Lat: 0.07 Lng: -80.05
+Success.  Appending data.
+Request city: alabaster at 03/28/2019, 22:43:04
+Response at 03/28/2019, 22:43:05
+City: Alabaster Country: US Temp: 50.65 Humidity: 66.0 Wind: 4.97 Cloud cover: 1.0 Lat: 33.24 Lng: -86.82
+Success.  Appending data.
+Request city: kawai at 03/28/2019, 22:43:05
+Response at 03/28/2019, 22:43:06
+City: Kawai Country: JP Temp: 60.15 Humidity: 29.0 Wind: 4.7 Cloud cover: 0.0 Lat: 34.58 Lng: 135.74
+Success.  Appending data.
+Request city: tucuma at 03/28/2019, 22:43:06
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: pathalgaon at 03/28/2019, 22:43:07
+Response at 03/28/2019, 22:43:08
+City: Pathalgaon Country: IN Temp: 91.13 Humidity: 31.0 Wind: 5.64 Cloud cover: 0.0 Lat: 22.56 Lng: 83.46
+Success.  Appending data.
+Request city: sesheke at 03/28/2019, 22:43:08
+Response at 03/28/2019, 22:43:09
+City: Sesheke Country: NA Temp: 71.42 Humidity: 74.0 Wind: 3.85 Cloud cover: 8.0 Lat: -17.47 Lng: 24.29
+Success.  Appending data.
+Beginning data collection batch 25:
+Request city: birao at 03/28/2019, 22:43:13
+Response at 03/28/2019, 22:43:15
+City: Birao Country: CF Temp: 72.14 Humidity: 22.0 Wind: 11.79 Cloud cover: 0.0 Lat: 10.3 Lng: 22.78
+Success.  Appending data.
+Request city: plastun at 03/28/2019, 22:43:15
+Response at 03/28/2019, 22:43:15
+City: Plastun Country: RU Temp: 31.1 Humidity: 34.0 Wind: 6.76 Cloud cover: 24.0 Lat: 44.76 Lng: 136.29
+Success.  Appending data.
+Request city: remanso at 03/28/2019, 22:43:15
+Response at 03/28/2019, 22:43:15
+City: Remanso Country: BR Temp: 76.82 Humidity: 100.0 Wind: 14.03 Cloud cover: 8.0 Lat: -9.62 Lng: -42.08
+Success.  Appending data.
+Request city: umba at 03/28/2019, 22:43:15
+Response at 03/28/2019, 22:43:16
+City: Umba Country: RU Temp: 38.75 Humidity: 83.0 Wind: 14.36 Cloud cover: 88.0 Lat: 66.69 Lng: 34.34
+Success.  Appending data.
+Request city: tansen at 03/28/2019, 22:43:16
+Response at 03/28/2019, 22:43:17
+City: Tansen Country: NP Temp: 92.75 Humidity: 28.0 Wind: 4.63 Cloud cover: 0.0 Lat: 27.87 Lng: 83.55
+Success.  Appending data.
+Request city: los llanos de aridane at 03/28/2019, 22:43:17
+Response at 03/28/2019, 22:43:18
+City: Los Llanos de Aridane Country: ES Temp: 59.0 Humidity: 67.0 Wind: 8.05 Cloud cover: 100.0 Lat: 28.66 Lng: -17.92
+Success.  Appending data.
+Request city: ponazyrevo at 03/28/2019, 22:43:18
+Response at 03/28/2019, 22:43:20
+City: Ponazyrevo Country: RU Temp: 29.03 Humidity: 83.0 Wind: 3.62 Cloud cover: 44.0 Lat: 58.36 Lng: 46.31
+Success.  Appending data.
+Request city: macusani at 03/28/2019, 22:43:20
+Response at 03/28/2019, 22:43:21
+City: Macusani Country: PE Temp: 49.19 Humidity: 100.0 Wind: 1.95 Cloud cover: 68.0 Lat: -14.07 Lng: -70.43
+Success.  Appending data.
+Request city: fram at 03/28/2019, 22:43:21
+Response at 03/28/2019, 22:43:23
+City: Fram Country: SI Temp: 40.95 Humidity: 86.0 Wind: 3.36 Cloud cover: 40.0 Lat: 46.45 Lng: 15.64
+Success.  Appending data.
+Request city: otradnoye at 03/28/2019, 22:43:23
+Response at 03/28/2019, 22:43:23
+City: Otradnoye Country: RU Temp: 40.78 Humidity: 75.0 Wind: 11.18 Cloud cover: 0.0 Lat: 59.77 Lng: 30.8
+Success.  Appending data.
+Request city: jinchengjiang at 03/28/2019, 22:43:23
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: aranda de duero at 03/28/2019, 22:43:26
+Response at 03/28/2019, 22:43:28
+City: Aranda de Duero Country: ES Temp: 27.05 Humidity: 78.0 Wind: 3.06 Cloud cover: 0.0 Lat: 41.67 Lng: -3.69
+Success.  Appending data.
+Request city: chyhyryn at 03/28/2019, 22:43:28
+Response at 03/28/2019, 22:43:30
+City: Chyhyryn Country: UA Temp: 33.98 Humidity: 64.0 Wind: 7.65 Cloud cover: 0.0 Lat: 49.08 Lng: 32.67
+Success.  Appending data.
+Request city: arrifes at 03/28/2019, 22:43:30
+Response at 03/28/2019, 22:43:30
+City: Arrifes Country: PT Temp: 55.17 Humidity: 76.0 Wind: 9.17 Cloud cover: 75.0 Lat: 37.77 Lng: -25.7
+Success.  Appending data.
+Request city: tuktoyaktuk at 03/28/2019, 22:43:30
+Response at 03/28/2019, 22:43:31
+City: Tuktoyaktuk Country: CA Temp: 21.2 Humidity: 85.0 Wind: 6.93 Cloud cover: 75.0 Lat: 69.44 Lng: -133.03
+Success.  Appending data.
+Request city: oskarshamn at 03/28/2019, 22:43:31
+Response at 03/28/2019, 22:43:32
+City: Oskarshamn Country: SE Temp: 44.82 Humidity: 81.0 Wind: 11.41 Cloud cover: 0.0 Lat: 57.26 Lng: 16.44
+Success.  Appending data.
+Beginning data collection batch 26:
+Request city: manthani at 03/28/2019, 22:43:35
+Response at 03/28/2019, 22:43:36
+City: Manthani Country: IN Temp: 96.35 Humidity: 45.0 Wind: 5.19 Cloud cover: 0.0 Lat: 18.65 Lng: 79.67
+Success.  Appending data.
+Request city: passo de camaragibe at 03/28/2019, 22:43:36
+Response at 03/28/2019, 22:43:38
+City: Passo de Camaragibe Country: BR Temp: 75.2 Humidity: 88.0 Wind: 3.36 Cloud cover: 40.0 Lat: -9.24 Lng: -35.49
+Success.  Appending data.
+Request city: luba at 03/28/2019, 22:43:38
+Response at 03/28/2019, 22:43:41
+City: Luba Country: PH Temp: 88.43 Humidity: 45.0 Wind: 7.09 Cloud cover: 0.0 Lat: 17.32 Lng: 120.7
+Success.  Appending data.
+Request city: kloulklubed at 03/28/2019, 22:43:41
+Response at 03/28/2019, 22:43:42
+City: Kloulklubed Country: PW Temp: 86.0 Humidity: 62.0 Wind: 9.17 Cloud cover: 75.0 Lat: 7.04 Lng: 134.26
+Success.  Appending data.
+Request city: rae bareli at 03/28/2019, 22:43:42
+Response at 03/28/2019, 22:43:43
+City: Rae Bareli Country: IN Temp: 90.41 Humidity: 55.0 Wind: 4.63 Cloud cover: 0.0 Lat: 26.22 Lng: 81.25
+Success.  Appending data.
+Request city: kidal at 03/28/2019, 22:43:43
+Response at 03/28/2019, 22:43:46
+City: Kidal Country: ML Temp: 74.93 Humidity: 28.0 Wind: 5.86 Cloud cover: 0.0 Lat: 18.44 Lng: 1.41
+Success.  Appending data.
+Request city: arlit at 03/28/2019, 22:43:46
+Response at 03/28/2019, 22:43:47
+City: Arlit Country: NE Temp: 68.81 Humidity: 32.0 Wind: 3.4 Cloud cover: 12.0 Lat: 18.74 Lng: 7.39
+Success.  Appending data.
+Request city: sarh at 03/28/2019, 22:43:47
+Response at 03/28/2019, 22:43:48
+City: Sarh Country: TD Temp: 80.6 Humidity: 65.0 Wind: 4.7 Cloud cover: 0.0 Lat: 9.14 Lng: 18.39
+Success.  Appending data.
+Request city: chanika at 03/28/2019, 22:43:48
+Response at 03/28/2019, 22:43:48
+City: Chanika Country: MW Temp: 75.38 Humidity: 84.0 Wind: 5.19 Cloud cover: 0.0 Lat: -12.93 Lng: 34.19
+Success.  Appending data.
+Request city: maraa at 03/28/2019, 22:43:48
+Response at 03/28/2019, 22:43:49
+City: Maraa Country: BR Temp: 73.58 Humidity: 97.0 Wind: 2.84 Cloud cover: 80.0 Lat: -1.83 Lng: -65.37
+Success.  Appending data.
+Request city: telsiai at 03/28/2019, 22:43:49
+Response at 03/28/2019, 22:43:49
+City: Telsiai Country: LT Temp: 40.55 Humidity: 93.0 Wind: 14.81 Cloud cover: 12.0 Lat: 55.98 Lng: 22.25
+Success.  Appending data.
+Request city: trento at 03/28/2019, 22:43:49
+Response at 03/28/2019, 22:43:50
+City: Trento Country: IT Temp: 37.42 Humidity: 80.0 Wind: 3.0 Cloud cover: 0.0 Lat: 46.07 Lng: 11.13
+Success.  Appending data.
+Request city: nizwa at 03/28/2019, 22:43:50
+Response at 03/28/2019, 22:43:50
+City: Nizwa Country: OM Temp: 83.12 Humidity: 41.0 Wind: 3.74 Cloud cover: 8.0 Lat: 22.93 Lng: 57.53
+Success.  Appending data.
+Request city: honolulu at 03/28/2019, 22:43:50
+Response at 03/28/2019, 22:43:51
+City: Honolulu Country: US Temp: 73.49 Humidity: 57.0 Wind: 9.17 Cloud cover: 40.0 Lat: 21.3 Lng: -157.86
+Success.  Appending data.
+Request city: leninskoye at 03/28/2019, 22:43:51
+Response at 03/28/2019, 22:43:52
+City: Leninskoye Country: RU Temp: 39.2 Humidity: 55.0 Wind: 8.95 Cloud cover: 0.0 Lat: 54.82 Lng: 82.85
+Success.  Appending data.
+Request city: calderitas at 03/28/2019, 22:43:52
+Response at 03/28/2019, 22:43:52
+City: Calderitas Country: MX Temp: 75.2 Humidity: 60.0 Wind: 10.78 Cloud cover: 40.0 Lat: 18.55 Lng: -88.26
+Success.  Appending data.
+Request city: trat at 03/28/2019, 22:43:52
+Response at 03/28/2019, 22:43:53
+City: Trat Country: TH Temp: 92.43 Humidity: 70.0 Wind: 5.82 Cloud cover: 40.0 Lat: 12.25 Lng: 102.51
+Success.  Appending data.
+Request city: corn island at 03/28/2019, 22:43:53
+Response at 03/28/2019, 22:43:53
+City: Corn Island Country: NI Temp: 79.43 Humidity: 99.0 Wind: 18.5 Cloud cover: 92.0 Lat: 12.17 Lng: -83.04
+Success.  Appending data.
+Request city: turtkul at 03/28/2019, 22:43:53
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: zaria at 03/28/2019, 22:43:54
+Response at 03/28/2019, 22:43:55
+City: Zaria Country: NG Temp: 65.75 Humidity: 31.0 Wind: 7.76 Cloud cover: 0.0 Lat: 11.11 Lng: 7.72
+Success.  Appending data.
+Beginning data collection batch 27:
+Request city: popondetta at 03/28/2019, 22:43:59
+Response at 03/28/2019, 22:44:00
+City: Popondetta Country: PG Temp: 74.66 Humidity: 93.0 Wind: 1.16 Cloud cover: 68.0 Lat: -8.77 Lng: 148.24
+Success.  Appending data.
+Request city: marmande at 03/28/2019, 22:44:00
+Response at 03/28/2019, 22:44:00
+City: Marmande Country: FR Temp: 38.23 Humidity: 75.0 Wind: 5.82 Cloud cover: 0.0 Lat: 44.5 Lng: 0.16
+Success.  Appending data.
+Request city: san fernando at 03/28/2019, 22:44:00
+Response at 03/28/2019, 22:44:00
+City: San Fernando Country: TT Temp: 76.24 Humidity: 94.0 Wind: 3.36 Cloud cover: 20.0 Lat: 10.28 Lng: -61.46
+Success.  Appending data.
+Request city: ayagoz at 03/28/2019, 22:44:00
+Response at 03/28/2019, 22:44:01
+City: Ayagoz Country: KZ Temp: 52.88 Humidity: 92.0 Wind: 13.47 Cloud cover: 44.0 Lat: 47.96 Lng: 80.43
+Success.  Appending data.
+Request city: iracoubo at 03/28/2019, 22:44:01
+Response at 03/28/2019, 22:44:01
+City: Iracoubo Country: GF Temp: 78.53 Humidity: 76.0 Wind: 6.2 Cloud cover: 56.0 Lat: 5.48 Lng: -53.21
+Success.  Appending data.
+Request city: kamenka at 03/28/2019, 22:44:01
+Response at 03/28/2019, 22:44:02
+City: Kamenka Country: RU Temp: 36.0 Humidity: 65.0 Wind: 7.99 Cloud cover: 68.0 Lat: 53.19 Lng: 44.05
+Success.  Appending data.
+Request city: luebo at 03/28/2019, 22:44:02
+Response at 03/28/2019, 22:44:04
+City: Luebo Country: CD Temp: 75.83 Humidity: 92.0 Wind: 2.95 Cloud cover: 0.0 Lat: -5.35 Lng: 21.42
+Success.  Appending data.
+Request city: thatta at 03/28/2019, 22:44:04
+Response at 03/28/2019, 22:44:04
+City: Thatta Country: IN Temp: 77.95 Humidity: 53.0 Wind: 2.24 Cloud cover: 40.0 Lat: 31.7 Lng: 74.64
+Success.  Appending data.
+Request city: ji-parana at 03/28/2019, 22:44:04
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: baiyin at 03/28/2019, 22:44:05
+Response at 03/28/2019, 22:44:05
+City: Baiyin Country: CN Temp: 51.8 Humidity: 17.0 Wind: 4.47 Cloud cover: 0.0 Lat: 36.55 Lng: 104.13
+Success.  Appending data.
+Request city: barentsburg at 03/28/2019, 22:44:05
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: manggar at 03/28/2019, 22:44:06
+Response at 03/28/2019, 22:44:06
+City: Manggar Country: ID Temp: 84.02 Humidity: 94.0 Wind: 5.75 Cloud cover: 56.0 Lat: -2.88 Lng: 108.27
+Success.  Appending data.
+Request city: campana at 03/28/2019, 22:44:06
+Response at 03/28/2019, 22:44:07
+City: Campana Country: PA Temp: 77.25 Humidity: 78.0 Wind: 2.24 Cloud cover: 20.0 Lat: 8.72 Lng: -79.89
+Success.  Appending data.
+Request city: strelitsa at 03/28/2019, 22:44:07
+Response at 03/28/2019, 22:44:07
+City: Strelitsa Country: RU Temp: 30.2 Humidity: 68.0 Wind: 6.71 Cloud cover: 0.0 Lat: 51.61 Lng: 38.91
+Success.  Appending data.
+Request city: gaogou at 03/28/2019, 22:44:07
+Response at 03/28/2019, 22:44:07
+City: Gaogou Country: CN Temp: 67.73 Humidity: 83.0 Wind: 3.96 Cloud cover: 80.0 Lat: 31.12 Lng: 117.94
+Success.  Appending data.
+Beginning data collection batch 28:
+Request city: yashalta at 03/28/2019, 22:44:11
+Response at 03/28/2019, 22:44:12
+City: Yashalta Country: RU Temp: 38.84 Humidity: 100.0 Wind: 4.63 Cloud cover: 0.0 Lat: 46.34 Lng: 42.27
+Success.  Appending data.
+Request city: oleksandrivka at 03/28/2019, 22:44:12
+Response at 03/28/2019, 22:44:13
+City: Oleksandrivka Country: UA Temp: 34.79 Humidity: 66.0 Wind: 7.2 Cloud cover: 0.0 Lat: 48.74 Lng: 37.49
+Success.  Appending data.
+Request city: luzhou at 03/28/2019, 22:44:13
+Response at 03/28/2019, 22:44:14
+City: Luzhou Country: CN Temp: 76.46 Humidity: 54.0 Wind: 4.74 Cloud cover: 0.0 Lat: 28.89 Lng: 105.45
+Success.  Appending data.
+Request city: castillo de teayo at 03/28/2019, 22:44:14
+Response at 03/28/2019, 22:44:16
+City: Castillo de Teayo Country: MX Temp: 65.03 Humidity: 84.0 Wind: 6.2 Cloud cover: 0.0 Lat: 20.75 Lng: -97.63
+Success.  Appending data.
+Request city: fergus falls at 03/28/2019, 22:44:16
+Response at 03/28/2019, 22:44:22
+City: Fergus Falls Country: US Temp: 26.55 Humidity: 86.0 Wind: 3.62 Cloud cover: 1.0 Lat: 46.28 Lng: -96.08
+Success.  Appending data.
+Request city: cedar city at 03/28/2019, 22:44:22
+Response at 03/28/2019, 22:44:22
+City: Cedar City Country: US Temp: 39.69 Humidity: 28.0 Wind: 10.29 Cloud cover: 75.0 Lat: 37.68 Lng: -113.06
+Success.  Appending data.
+Request city: sete lagoas at 03/28/2019, 22:44:22
+Response at 03/28/2019, 22:44:22
+City: Sete Lagoas Country: BR Temp: 64.4 Humidity: 82.0 Wind: 8.05 Cloud cover: 0.0 Lat: -19.47 Lng: -44.25
+Success.  Appending data.
+Request city: chauk at 03/28/2019, 22:44:22
+Response at 03/28/2019, 22:44:23
+City: Chauk Country: MM Temp: 92.48 Humidity: 40.0 Wind: 4.63 Cloud cover: 0.0 Lat: 20.89 Lng: 94.82
+Success.  Appending data.
+Request city: mersin at 03/28/2019, 22:44:23
+Response at 03/28/2019, 22:44:23
+City: Mersin Country: TR Temp: 53.91 Humidity: 93.0 Wind: 8.05 Cloud cover: 75.0 Lat: 36.81 Lng: 34.63
+Success.  Appending data.
+Request city: boda at 03/28/2019, 22:44:23
+Response at 03/28/2019, 22:44:24
+City: Boda Country: BD Temp: 89.51 Humidity: 42.0 Wind: 7.87 Cloud cover: 36.0 Lat: 26.2 Lng: 88.56
+Success.  Appending data.
+Request city: mau aima at 03/28/2019, 22:44:24
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: tayoltita at 03/28/2019, 22:44:24
+Response at 03/28/2019, 22:44:25
+City: Tayoltita Country: MX Temp: 62.69 Humidity: 43.0 Wind: 1.72 Cloud cover: 0.0 Lat: 24.11 Lng: -105.93
+Success.  Appending data.
+Request city: pontes e lacerda at 03/28/2019, 22:44:25
+Response at 03/28/2019, 22:44:25
+City: Pontes e Lacerda Country: BR Temp: 70.7 Humidity: 92.0 Wind: 2.73 Cloud cover: 12.0 Lat: -15.23 Lng: -59.33
+Success.  Appending data.
+Request city: pinheiro machado at 03/28/2019, 22:44:25
+Response at 03/28/2019, 22:44:26
+City: Pinheiro Machado Country: BR Temp: 66.11 Humidity: 82.0 Wind: 13.47 Cloud cover: 36.0 Lat: -31.58 Lng: -53.38
+Success.  Appending data.
+Request city: oga at 03/28/2019, 22:44:26
+Response at 03/28/2019, 22:44:27
+City: Oga Country: NG Temp: 77.63 Humidity: 76.0 Wind: 9.22 Cloud cover: 0.0 Lat: 8.18 Lng: 5.65
+Success.  Appending data.
+Request city: bakchar at 03/28/2019, 22:44:27
+Response at 03/28/2019, 22:44:28
+City: Bakchar Country: RU Temp: 38.39 Humidity: 72.0 Wind: 9.33 Cloud cover: 36.0 Lat: 57.02 Lng: 82.07
+Success.  Appending data.
+Request city: moses lake at 03/28/2019, 22:44:28
+Response at 03/28/2019, 22:44:30
+City: Moses Lake Country: US Temp: 45.37 Humidity: 75.0 Wind: 5.82 Cloud cover: 90.0 Lat: 47.13 Lng: -119.28
+Success.  Appending data.
+Request city: vodnyy at 03/28/2019, 22:44:30
+Response at 03/28/2019, 22:44:30
+City: Vodnyy Country: RU Temp: 32.72 Humidity: 78.0 Wind: 4.18 Cloud cover: 0.0 Lat: 63.51 Lng: 53.41
+Success.  Appending data.
+Request city: poso at 03/28/2019, 22:44:30
+Response at 03/28/2019, 22:44:30
+City: Poso Country: ID Temp: 77.72 Humidity: 100.0 Wind: 4.18 Cloud cover: 92.0 Lat: -1.4 Lng: 120.75
+Success.  Appending data.
+Request city: khrystynivka at 03/28/2019, 22:44:30
+Response at 03/28/2019, 22:44:32
+City: Khrystynivka Country: UA Temp: 34.61 Humidity: 76.0 Wind: 6.42 Cloud cover: 0.0 Lat: 48.82 Lng: 29.97
+Success.  Appending data.
+Beginning data collection batch 29:
+Request city: sterling at 03/28/2019, 22:44:36
+Response at 03/28/2019, 22:44:36
+City: Sterling Country: US Temp: 51.03 Humidity: 54.0 Wind: 8.05 Cloud cover: 40.0 Lat: 39.0 Lng: -77.4
+Success.  Appending data.
+Request city: albion at 03/28/2019, 22:44:36
+Response at 03/28/2019, 22:44:37
+City: Albion Country: US Temp: 42.93 Humidity: 75.0 Wind: 8.05 Cloud cover: 90.0 Lat: 41.69 Lng: -98.0
+Success.  Appending data.
+Request city: kuna at 03/28/2019, 22:44:37
+Response at 03/28/2019, 22:44:37
+City: Kuna Country: US Temp: 41.14 Humidity: 87.0 Wind: 3.74 Cloud cover: 75.0 Lat: 43.49 Lng: -116.42
+Success.  Appending data.
+Request city: escanaba at 03/28/2019, 22:44:37
+Response at 03/28/2019, 22:44:38
+City: Escanaba Country: US Temp: 28.96 Humidity: 80.0 Wind: 3.36 Cloud cover: 90.0 Lat: 45.75 Lng: -87.06
+Success.  Appending data.
+Request city: henties bay at 03/28/2019, 22:44:38
+Response at 03/28/2019, 22:44:39
+City: Henties Bay Country: NA Temp: 62.01 Humidity: 92.0 Wind: 5.99 Cloud cover: 92.0 Lat: -22.12 Lng: 14.28
+Success.  Appending data.
+Request city: noumea at 03/28/2019, 22:44:39
+Response at 03/28/2019, 22:44:39
+City: Noumea Country: NC Temp: 89.6 Humidity: 52.0 Wind: 8.05 Cloud cover: 48.0 Lat: -22.28 Lng: 166.46
+Success.  Appending data.
+Request city: pimenta bueno at 03/28/2019, 22:44:39
+Response at 03/28/2019, 22:44:40
+City: Pimenta Bueno Country: BR Temp: 71.87 Humidity: 99.0 Wind: 2.51 Cloud cover: 92.0 Lat: -11.68 Lng: -61.19
+Success.  Appending data.
+Request city: goya at 03/28/2019, 22:44:40
+Response at 03/28/2019, 22:44:40
+City: Goya Country: AR Temp: 69.17 Humidity: 81.0 Wind: 3.18 Cloud cover: 76.0 Lat: -29.14 Lng: -59.27
+Success.  Appending data.
+Request city: zavetnoye at 03/28/2019, 22:44:40
+Response at 03/28/2019, 22:44:40
+City: Zavetnoye Country: RU Temp: 36.86 Humidity: 74.0 Wind: 7.31 Cloud cover: 0.0 Lat: 47.12 Lng: 43.89
+Success.  Appending data.
+Request city: husavik at 03/28/2019, 22:44:40
+Response at 03/28/2019, 22:44:41
+City: Husavik Country: CA Temp: 26.53 Humidity: 78.0 Wind: 8.99 Cloud cover: 0.0 Lat: 50.56 Lng: -96.99
+Success.  Appending data.
+Request city: mabamba at 03/28/2019, 22:44:41
+Response at 03/28/2019, 22:44:41
+City: Mabamba Country: TZ Temp: 66.47 Humidity: 88.0 Wind: 4.41 Cloud cover: 0.0 Lat: -3.6 Lng: 30.5
+Success.  Appending data.
+Request city: mae sot at 03/28/2019, 22:44:41
+Response at 03/28/2019, 22:44:41
+City: Mae Sot Country: MM Temp: 89.6 Humidity: 49.0 Wind: 2.24 Cloud cover: 20.0 Lat: 16.71 Lng: 98.57
+Success.  Appending data.
+Request city: tungkang at 03/28/2019, 22:44:41
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: pukhrayan at 03/28/2019, 22:44:42
+Response at 03/28/2019, 22:44:42
+City: Pukhrayan Country: IN Temp: 97.43 Humidity: 33.0 Wind: 4.74 Cloud cover: 0.0 Lat: 26.23 Lng: 79.84
+Success.  Appending data.
+Request city: mongo at 03/28/2019, 22:44:42
+Response at 03/28/2019, 22:44:44
+City: Mongo Country: CF Temp: 77.63 Humidity: 76.0 Wind: 3.18 Cloud cover: 0.0 Lat: 4.83 Lng: 22.92
+Success.  Appending data.
+Request city: thabazimbi at 03/28/2019, 22:44:44
+Response at 03/28/2019, 22:44:44
+City: Thabazimbi Country: ZA Temp: 66.38 Humidity: 80.0 Wind: 3.29 Cloud cover: 0.0 Lat: -24.59 Lng: 27.41
+Success.  Appending data.
+Request city: erenhot at 03/28/2019, 22:44:44
+Response at 03/28/2019, 22:44:45
+City: Erenhot Country: CN Temp: 32.72 Humidity: 41.0 Wind: 19.51 Cloud cover: 44.0 Lat: 43.65 Lng: 111.97
+Success.  Appending data.
+Request city: nadapuram at 03/28/2019, 22:44:45
+Response at 03/28/2019, 22:44:46
+City: Nadapuram Country: IN Temp: 91.85 Humidity: 49.0 Wind: 4.97 Cloud cover: 0.0 Lat: 11.7 Lng: 75.65
+Success.  Appending data.
+Request city: bury saint edmunds at 03/28/2019, 22:44:46
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: miraflores at 03/28/2019, 22:44:47
+Response at 03/28/2019, 22:44:48
+City: Miraflores Country: CO Temp: 51.8 Humidity: 98.0 Wind: 0.38 Cloud cover: 44.0 Lat: 5.2 Lng: -73.14
+Success.  Appending data.
+Beginning data collection batch 30:
+Request city: montrose at 03/28/2019, 22:44:51
+Response at 03/28/2019, 22:44:53
+City: Montrose Country: AU Temp: 79.45 Humidity: 20.0 Wind: 24.16 Cloud cover: 48.0 Lat: -37.81 Lng: 145.34
+Success.  Appending data.
+Request city: ambovombe at 03/28/2019, 22:44:53
+Response at 03/28/2019, 22:44:54
+City: Ambovombe Country: MG Temp: 79.43 Humidity: 76.0 Wind: 11.12 Cloud cover: 48.0 Lat: -25.18 Lng: 46.09
+Success.  Appending data.
+Request city: belokurikha at 03/28/2019, 22:44:54
+Response at 03/28/2019, 22:44:55
+City: Belokurikha Country: RU Temp: 39.29 Humidity: 93.0 Wind: 9.66 Cloud cover: 48.0 Lat: 52.0 Lng: 84.99
+Success.  Appending data.
+Request city: santa maria at 03/28/2019, 22:44:55
+Response at 03/28/2019, 22:44:57
+City: Santa Maria Country: BR Temp: 66.38 Humidity: 77.0 Wind: 11.68 Cloud cover: 0.0 Lat: -29.69 Lng: -53.81
+Success.  Appending data.
+Request city: riyadh at 03/28/2019, 22:44:57
+Response at 03/28/2019, 22:44:58
+City: Riyadh Country: SA Temp: 66.2 Humidity: 34.0 Wind: 2.24 Cloud cover: 0.0 Lat: 24.63 Lng: 46.72
+Success.  Appending data.
+Request city: biak at 03/28/2019, 22:44:58
+Response at 03/28/2019, 22:45:00
+City: Biak Country: ID Temp: 84.29 Humidity: 83.0 Wind: 2.73 Cloud cover: 24.0 Lat: -0.91 Lng: 122.88
+Success.  Appending data.
+Request city: kakamigahara at 03/28/2019, 22:45:00
+Response at 03/28/2019, 22:45:02
+City: Kakamigahara Country: JP Temp: 62.78 Humidity: 33.0 Wind: 5.82 Cloud cover: 75.0 Lat: 35.4 Lng: 136.85
+Success.  Appending data.
+Request city: ouesso at 03/28/2019, 22:45:02
+Response at 03/28/2019, 22:45:02
+City: Ouesso Country: CG Temp: 77.9 Humidity: 89.0 Wind: 2.73 Cloud cover: 56.0 Lat: 1.61 Lng: 16.05
+Success.  Appending data.
+Request city: bouar at 03/28/2019, 22:45:02
+Response at 03/28/2019, 22:45:02
+City: Bouar Country: CF Temp: 73.4 Humidity: 68.0 Wind: 0.6 Cloud cover: 12.0 Lat: 5.94 Lng: 15.59
+Success.  Appending data.
+Request city: tshikapa at 03/28/2019, 22:45:02
+Response at 03/28/2019, 22:45:03
+City: Tshikapa Country: CD Temp: 76.19 Humidity: 93.0 Wind: 2.84 Cloud cover: 8.0 Lat: -6.42 Lng: 20.79
+Success.  Appending data.
+Request city: vershino-darasunskiy at 03/28/2019, 22:45:03
+Response at 03/28/2019, 22:45:06
+City: Vershino-Darasunskiy Country: RU Temp: 26.6 Humidity: 33.0 Wind: 6.53 Cloud cover: 64.0 Lat: 52.35 Lng: 115.52
+Success.  Appending data.
+Request city: zeitz at 03/28/2019, 22:45:06
+Response at 03/28/2019, 22:45:08
+City: Zeitz Country: DE Temp: 45.52 Humidity: 93.0 Wind: 3.29 Cloud cover: 76.0 Lat: 51.05 Lng: 12.13
+Success.  Appending data.
+Request city: harnosand at 03/28/2019, 22:45:08
+Response at 03/28/2019, 22:45:11
+City: Harnosand Country: SE Temp: 41.61 Humidity: 92.0 Wind: 18.72 Cloud cover: 0.0 Lat: 62.63 Lng: 17.94
+Success.  Appending data.
+Request city: angra at 03/28/2019, 22:45:11
+HTTP Request Failed
+Data does not meet criteria and will not be used.
+Request city: vizinga at 03/28/2019, 22:45:11
+Response at 03/28/2019, 22:45:12
+City: Vizinga Country: RU Temp: 28.76 Humidity: 83.0 Wind: 3.74 Cloud cover: 24.0 Lat: 61.08 Lng: 50.08
+Success.  Appending data.
+Request city: fayetteville at 03/28/2019, 22:45:12
+Response at 03/28/2019, 22:45:13
+City: Fayetteville Country: US Temp: 62.42 Humidity: 48.0 Wind: 11.56 Cloud cover: 90.0 Lat: 36.06 Lng: -94.16
+Success.  Appending data.
+Request city: barguzin at 03/28/2019, 22:45:13
+Response at 03/28/2019, 22:45:16
+City: Barguzin Country: RU Temp: 25.43 Humidity: 56.0 Wind: 3.4 Cloud cover: 32.0 Lat: 53.62 Lng: 109.63
+Success.  Appending data.
+Request city: gaoual at 03/28/2019, 22:45:16
+Response at 03/28/2019, 22:45:18
+City: Gaoual Country: GN Temp: 75.56 Humidity: 69.0 Wind: 1.39 Cloud cover: 44.0 Lat: 11.75 Lng: -13.2
 Success.  Appending data.
