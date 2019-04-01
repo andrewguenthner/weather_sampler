@@ -6,7 +6,7 @@ can answer this somewhat mundane question in a richer and more
 detailed way than a heuristic model is an effective way of 
 communicating the value of "big data" to an audience of non-experts.
 
-Special notes: 
+Special notes:  Requirements
 
 ***API Key Required***
 Running this demonstration requires the user to first obtain
@@ -38,18 +38,27 @@ PyPI at https://pypi.python.org/pypi/citipy. These libraries
 are included as sub-folders in the folder containing the notebook 
 demo for convenience.  Citipy makes use of kdtree.py, a library for 
 creating and using trees with distance, version 0.16 by Stefan
-Kögl, which is also included.
+Kögl, however, because only the database from citipy is used, the kdtree 
+source code is not required.  Rather, the notebook
+expects a database file named worldcities.csv to be present in a 
+folder named citipy.  The easiest way to make sure the file is 
+where it should be is simply to install the citipy library.
 
-The demo runs in Jupyter notebook, and requires the files config.py
-as well as the libraries to run successfully.  The notebook also
+In addition, the notebook requires the t-distribution function
+from scipy.stats, so scipy.stats must be installed.  Other libraries
+imported include datetime, time, and urllib.  An additional third-party
+source code file, haversine.py, is also required in the same folder 
+enclosing the notebook.
+
+The demo runs in Jupyter notebook. To run the notebook
 requires a working Internet connection to access real-time weather
 data.  Although the data transferred is minimal, you may incur 
 charges for transferring data.  Also please be aware that the demo
 makes a large number of requests from the OpenWeatherMap API, so
 please be considerate of the free service being provided.  
 
-Issues to consider:
-This demo will provide a "live" demonstration of the temperature, 
+Helpful background info:
+This demo will provide a "live" aggregation of the temperature, 
 cloud cover, humidity, and wind speed in several hundred cities
 around the world, graphed by latitude.  It shows how the weather
 near cities changes as latitude changes.  Note that "weather near
@@ -66,9 +75,11 @@ from those at a different time of day and year.
 
 Inputs:
 The notebook requires the user's API key in the file config.py
-as described above.  Third-party libraries openweathermapy, citipy,
-and kdtree are required.  Citipy also comes with a list of cities
-stored in a file named worldcities.csv.  
+as described above.  Third-party libraries openweathermapy and citipy,
+and the third-party haversine.py source file, are required.  Scipy
+(specifically the scipy.stats module) is also required..  If all 
+these file requirements are met, the user can simply run the notebook
+without providing further input. 
 
 Outputs:
 Graphics will appear in the Jupyter notebook and be saved into .png
@@ -76,15 +87,18 @@ files in a folder called output_data.  A list of the cities used
 and their weather conditions will also be placed in this folder in 
 csv format.  The notebook will also generate a log of each weather
 data request made, both in the notebook and in a file called
-log.txt in the folder output_data.
+log.txt in the folder output_data.  The final cells in the notebook
+contain tables of the statistical significance of correlations
+between all of the measured weather variables and both latitude and
+distance from the equator.  
 
 General procedure:
 S:  Generate a random sample of cities for collection of current 
-weather data using Citipy to link city names to coordiantes.
+weather data using citipy to link city names to coordiantes.
 Q:  Use the OpenWeatherMap API to query the weather for these
 cities and store the data.
-A:  Use the openweathermapy module to prepare the data for analysis
 P:  Use matplotlib to create and save the graphs
+A:  Perform statistical analyses to identify significant correlations
 
 Note that the demo will generate a very verbose log of connection
 information.  This is meant to help you be aware of the external
@@ -100,10 +114,11 @@ So, for instance, if we request lat(itude) = -60 (60 deg S),
 long(itude) = -115 (115 deg W), we actually get a city at
 lat = -23, long = -135, far different than what we asked for.  The
 reason is that, like most random combinations of lat/long, this
-spot is in the middle of the ocean, far from land, and we get Rikitea
-in French Polynesia -- almost 3,000 miles away.  That's a sure
-way to come to false conclusions, particularly about the Southern
-Hemisphere where ocean is especially predominant.  
+spot is in the middle of the ocean, so the nearest city in Rikitea
+in French Polynesia -- almost 3,000 miles away.  Although we can
+use the coordinats of the weather station rather than the coordiantes
+requested to build a valid correlation, we will be using an odd and
+uncontrolled sampling scheme, which is not preferable.  
 
 The "nearest city" function also has some flaws, namely: 1) it does 
 not correctly handle the meridian at 180 deg E/W.  Nearer cities
@@ -113,58 +128,72 @@ as "equally large" in space.  In reality, degrees of longitude are
 smaller (by 30% at 45 degrees latitude and 50% at 60 degrees latitude)
 so that the algorithm will tend to pick more distant cities north
 and south of the target location as opposed to nearby ones east or
-west.  This is especially bad for controlling latitude.  
+west.  This is undesirable for controlling latitude.
 
-A further issue with random sampling is that it assumes a uniform
-distribution of latitude and longitude points on Earth's surface.
-In fact, because the Earth is a sphere, there are far more points
-at the equator than there are at a parallel near the pole (e.g. 
-85 deg N).  Because there are many more points at the equator, we
-should expect that there may well be a wider variety of weather.
-We can capture this phenomenon by putting more points in scatterplots
-at locations near the equator, and fewer near the poles.  As it 
-happens, there are virtually no cities near the poles, so our
-representation of the weather in cities should be sparse.  
+A further issue with random sampling of lat/long pairs is that it 
+assumes a uniform distribution of latitude and longitude points on
+Earth's surface.  In fact, because the Earth is a sphere, there are 
+far more points at the equator than there are at a parallel near the 
+pole.  Because there are many more points at the equator, if we
+want a representative sample of city locations, we should sample 
+random points on the Earth's surface rather than random lat / long
+pairs, which will oversample polar regions.  
 
-To both control for latitude and sample correctly, we can still
-use a random distribution, but we will break the distribution
-into bins and adjust the potential sample size in each bin to reflect 
-the relative area of that particular latitude band, which is
-porportional to the cosine of the latitude.  Within a bin, we will
-pick a location at random, then look for the closest city within
-a distance equal to the width (in latitude) of the bin.  For distance,
-we will use available Python code for the Haversine function, which
-correctly computes distances between lat/long points.  If no cities
-are found within that radius, no cities will be appended to the list.
-If more than one city is found, the closest city will be appended,
-provided it has not already been selected.
+To correctly sample points on Earth's surface, we can sample the 
+inverse cosine of latitude randomly, while sampling longitude randomly.  
+Doing so generates points weighted by the cosine of latitude, which
+is proportional to the surface area of Earth at that latitude.  To 
+avoid odd forms of bias introduced by sampling cities far away from the 
+target point, we will only add a city to the sample if it lies within
+a relatively small distance (adjustable as a program parameter)
+from the target point.  Consequently, we will generate many more points 
+than cities, however, computationally, this causes a very low impact
+on run time. (Most of the run time is spent waiting for API requests).
 
-If we make the number of attempts proportional to the cosine of latitude,
-then we will ssample about the same fraction of the surface of the planet
-uniformly.  Fewer successful attempts will mean fewer populated areas,
-thus we will automatically generate cities in approximate proprotion
-to populated landmass.  We can do this fairly simply by using a biased
-random distribution for latitude and a random distribution for longitude.
+To correctly calculate distance, we will use the haversine distance 
+function, which takes into account the contraction of longitude near 
+the poles.  
 
-Because we would like to have a sample of over 500 cities with weather
-data, and because not every city will have such data, we will iteratively
-sample until we reach 1000 candidate cities.  We will use Citipy to 
-retrieve city names and coordinates but use the Haversine distance 
-calculation.  The cities will be stored in a list for querying.
+Duplicates will be tracked on the basis of city name.  This will
+eliminate some cities that are not duplicates but share a name (e.g.
+if we sample Columbus, OH, we will not sample Columbus, GA), but the 
+effect on sampling is expected to be negligible.  
 
 Q:  To minimize load on the OpenWeatherMap server, we will run and log
-each query one at a time (on screen and in file), until we reach 500
-data points.  If we fail to reach 500,  we will repeat S1 until we 
-are successful.  We will build a DataFrame frame to retain only the cities
-with successful queries.  For each query, we will parse temperature (in F),
-humidity (in %), cloud cover (in %), and wind speed (in mph) and store
-them, along with lat / long coordinates, country, and a date/time stamp.
+queries in small batches (20, size adjustable). After each batch, we 
+check the number of cities gathered and stop once we reach the desired 
+target (also adjustable).  The program will also be set up with a max
+number of batches to attempt, so that it will not keep querying forever.  
+The program will have a parameter to limit the number of target 
+coordinates generated per batch, to avoid getting stuck in an infinite 
+loop while searching for cities.  These "safety" parameters will be
+user adjustable.  After each successful query, we will parse 
+temperature (in deg F), humidity (in %), cloud cover (in %), and 
+wind speed (in mph), along with lat / long coordinates, city name
+country, and a date/time stamp. The list of cities to be excluded and
+the actual queries will be by city name only. There is the possibility,
+if multiple query names return the same city, we could duplicate data,
+but in testing this behavior has never been seen for the 
+OpenWeatherMap API.  If this happens, the user will be warned and log
+file will show fewer unique cities than queries.  
 
-A:  Using the latitude as the x-axis, and the four weather data columns
-as the y-axis, we will create four scatterplots and label them.  For
-each, we can also test the hypothesis that the variable is independent
-of latitude.  Because we cannot validate the assumptions of linearity
+P:  Using the latitude as the x-axis, and the four weather data columns
+as the y-axis, we will create four scatterplots and label them.  
+
+A:  For each weather variable, we can test the hypothesis that the 
+varuabke us independent of both absolute latitude as well as distance 
+from the equator (absolute value of latitude times 111.13 km per degree).
+Because we cannot validate the assumptions of linearity
 homoskedacity, and absence of outliers needed for linear correlations,
-we will use Spearman's correlation (with latitude N to S and absolute
-value of latitude as independent variables) to check for effects. 
+we will use Spearman's correlation coefficient to check for effects,
+rather than Pearson's correlation coefficient.  The use of the Spearman 
+coefficient will cost us a quantitatively validated threshold for 95% 
+confidence, so we will describe confidence qualitatively.  The approach
+recommended is the use of the significance cut-offs for 95% confidence
+with the Pearson correlation, translated into qualitative terms, and 
+to treat correlations that are close to 95% significance as marginal
+rather than definite.  To handle this situation, the correlations will 
+be labeled "marginal" if the equivalent Pearson correlation coefficient 
+would have been signfiicant at 95% to 99% confidence, and "likely" if
+the equivalent Pearson coefficient would have been significant at 99%.  
 
